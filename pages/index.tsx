@@ -25,9 +25,7 @@ export default function App() {
               //     <Text h6 small>{value}</Text>
               //   </Card>
               // </Grid>
-              <VegetableTag key={index}>
-                <Text h6 small>{value}</Text>
-              </VegetableTag>
+              <VegetableTag key={index} value={value} />
             )
           })
         }
