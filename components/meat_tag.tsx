@@ -3,7 +3,7 @@ import styles from "./vegetable_tag.module.scss"
 import React, { useState } from 'react';
 
 
-export default function VegetableTag({
+export default function MeatTag({
   key,
   value,
 }: {
@@ -14,12 +14,12 @@ export default function VegetableTag({
   const [isSelected, setIsSelected] = useState(false);
   const unSelectedStyle: CSS = {
     padding: '2px 8px',
-    backgroundColor: theme.colors.green100,
-    color: theme.colors.green900,
+    backgroundColor: '#fee2e2',
+    color: '#991b1b',
   }
   const selectedStyle: CSS = {
     padding: '2px 8px',
-    backgroundColor: theme.colors.green600,
+    backgroundColor: '#ef4444e6',
     color: theme.colors.white,
   }
   const [style, setStyle] = useState(unSelectedStyle);
