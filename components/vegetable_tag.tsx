@@ -1,4 +1,6 @@
 import { Container, Card, Row, Text, Grid } from "@nextui-org/react";
+import styles from "./vegetable_tag.module.scss"
+import { css, Button } from '@nextui-org/react';
 
 export default function VegetableTag({
   key,
@@ -9,7 +11,7 @@ export default function VegetableTag({
 }) {
   return (
     <Grid key={key} >
-      <Card clickable bordered>
+      <Card className={styles.card} clickable bordered css={{padding: '0'}}>
         <main>{children}</main>
       </Card>
     </Grid>
