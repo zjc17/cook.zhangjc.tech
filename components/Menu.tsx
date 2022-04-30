@@ -6,6 +6,7 @@ import { Icon } from '@iconify/react';
 import homeIcon from '@iconify/icons-akar-icons/home';
 import sunIcon from '@iconify/icons-cil/sun';
 import moonIcon from '@iconify/icons-bytesize/moon';
+import questionCircleOutlined from '@iconify/icons-ant-design/question-circle-outlined';
 
 
 function ThemeSwitch() {
@@ -34,6 +35,11 @@ export function Menu() {
       </Grid>
       <Grid css={{ margin: '2px' }}>
         <ThemeSwitch />
+      </Grid>
+      <Grid css={{ margin: '2px 4px' }}>
+        <Link href="/help">
+          <Icon icon={questionCircleOutlined} width="25" height="25" color={theme.colors.foreground.value} />
+        </Link>
       </Grid>
 
       {/* <div>
