@@ -31,6 +31,7 @@ export default MyDocument;
 function PWA() {
   return (
     <>
+      <title>居家食用手册</title>
       <meta name='application-name' content='居家食用手册' />
       <meta name='apple-mobile-web-app-capable' content='yes' />
       <meta name='apple-mobile-web-app-status-bar-style' content='default' />
@@ -50,7 +51,7 @@ function PWA() {
       <link rel='manifest' href='/manifest.json' />
       <link rel='mask-icon' href='/icons/icon.svg' color='#5bbad5' />
       <link rel='shortcut icon' href='/favicon.ico' />
-      <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto:300,400,500' />
+      {/* <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto:300,400,500' /> */}
 
       <meta name='twitter:card' content='summary' />
       {/* <meta name='twitter:url' content='https://yourdomain.com' /> */}
