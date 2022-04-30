@@ -6,7 +6,8 @@
     "preexport": "npm run build",
     "export": "next export",
     "prestart": "npm run export",
-    "start": "serve out"
+    "start": "serve out",
+    "postbuild": "next-sitemap"
   },
   "dependencies": {
     "@nextui-org/react": "^1.0.0-beta.6",
@@ -28,6 +29,7 @@
     "@types/react": "^17.0.14",
     "autoprefixer": "^10.4.5",
     "next-pwa": "^5.5.2",
+    "next-sitemap": "^2.5.20",
     "postcss": "^8.4.12",
     "sass": "^1.51.0",
     "tailwindcss": "^3.0.24",
