@@ -61,9 +61,9 @@ function Result() {
 export function DishResult() {
     const { theme } = useTheme();
     return (
-        <Container xl css={{ backgroundColor: theme.colors.gray100, padding: '8px' }}>
+        <Container xl css={{ backgroundColor: theme.colors.accents1.value, padding: '8px' }}>
             <Row justify="center" align="center">
-                <Text h3 weight="normal">🍲 来看看组合出的菜谱吧！</Text>
+                <Text h3 weight="normal" >🍲 来看看组合出的菜谱吧！</Text>
             </Row>
             <ToggleMode />
             <Result />

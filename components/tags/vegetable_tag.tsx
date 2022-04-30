@@ -13,16 +13,16 @@ export default function VegetableTag({
   isSelected: boolean,
   toogleTag: (name: string) => void,
 }) {
-  const { theme } = useTheme();
+  const { theme, type } = useTheme();
   const unSelectedStyle: CSS = {
     padding: '2px 8px',
-    backgroundColor: theme.colors.green100,
-    color: theme.colors.green900,
+    backgroundColor: type === 'light' ? theme.colors.green100.value : theme.colors.green900.value,
+    color: type === 'light' ? theme.colors.green900.value : theme.colors.green100.value,
   }
   const selectedStyle: CSS = {
     padding: '2px 8px',
-    backgroundColor: theme.colors.green600,
-    color: theme.colors.white,
+    backgroundColor: theme.colors.green500.value,
+    color: theme.colors.white.value,
   }
   const style = isSelected ? selectedStyle : unSelectedStyle;
 

@@ -12,16 +12,16 @@ export default function StapleTag({
   isSelected: boolean,
   toogleTag: (name: string) => void,
 }) {
-  const { theme } = useTheme();
+  const { theme, type } = useTheme();
   const unSelectedStyle: CSS = {
     padding: '2px 8px',
-    backgroundColor: theme.colors.yellow100,
-    color: theme.colors.yellow800,
+    backgroundColor: type === 'light' ? theme.colors.yellow100 : theme.colors.yellow800.value,
+    color: type === 'light' ? theme.colors.yellow800.value : theme.colors.yellow100.value,
   }
   const selectedStyle: CSS = {
     padding: '2px 8px',
-    backgroundColor: theme.colors.yellow600,
-    color: theme.colors.white,
+    backgroundColor: theme.colors.yellow500.value,
+    color: theme.colors.white.value,
   }
   const style = isSelected ? selectedStyle : unSelectedStyle;
 

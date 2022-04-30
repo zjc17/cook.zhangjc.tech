@@ -16,13 +16,13 @@ export default function ToolTag({
   const { theme } = useTheme();
   const unSelectedStyle: CSS = {
     padding: '2px 8px',
-    backgroundColor: theme.colors.gray100,
-    color: theme.colors.gray900,
+    backgroundColor: theme.colors.accents1.value,
+    color: theme.colors.accents9.value,
   }
   const selectedStyle: CSS = {
     padding: '2px 8px',
-    backgroundColor: theme.colors.gray600,
-    color: theme.colors.white,
+    backgroundColor: theme.colors.gray500.value,
+    color: theme.colors.white.value,
   }
   var style = isSelected ? selectedStyle : unSelectedStyle;
   return (

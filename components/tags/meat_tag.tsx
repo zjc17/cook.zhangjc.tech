@@ -13,11 +13,11 @@ export default function MeatTag({
   isSelected: boolean,
   toogleTag: (name: string) => void,
 }) {
-  const { theme } = useTheme();
+  const { theme, type } = useTheme();
   const unSelectedStyle: CSS = {
     padding: '2px 8px',
-    backgroundColor: '#fee2e2',
-    color: '#991b1b',
+    backgroundColor: type === 'light' ? '#fee2e2' : '#fca5a533',
+    color: type === 'light' ? '#991b1b' : '#fecaca',
   }
   const selectedStyle: CSS = {
     padding: '2px 8px',
