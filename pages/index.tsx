@@ -3,6 +3,7 @@ import IngredientSelection from '../components/IngredientSelection'
 import ResetPrompt from '../components/ResetPrompt'
 import { DishResult } from "../components/DishResult";
 import { BaseFooter } from "../components/BaseFooter";
+import { Menu } from "../components/Menu";
 // const recipe: Recipe = recipeData as Recipe
 
 
@@ -12,8 +13,9 @@ export default function App() {
 
   return (
     <Container xl>
-
-      <Spacer y={2} />
+      <Spacer y={1} />
+      <Menu />
+      <Spacer y={1} />
 
       <ResetPrompt />
 
