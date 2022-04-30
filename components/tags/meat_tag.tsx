@@ -27,7 +27,7 @@ export default function MeatTag({
   var style = isSelected ? selectedStyle : unSelectedStyle;
 
   return (
-    <Grid key={key} >
+    <Grid key={key} css={{margin: '2px'}}>
       <Card clickable bordered shadow={false} animated={false} onClick={(event: any) => {
         toogleTag(value);
       }}>

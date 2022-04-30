@@ -31,7 +31,7 @@ export default function ModTag({
   const setSearchMode = userRecipeState(state => state.setSearchMode)
 
   return (
-    <Grid key={id} >
+    <Grid key={id} css={{margin: '2px'}}>
       <Card clickable bordered shadow={false} animated={false} onClick={(event: any) => {
         setSearchMode(id);
       }}>

@@ -16,13 +16,13 @@ export function DishResult() {
             case 'strict':
                 return recipes.filter((item) => {
                     const stuffFlag = stuffs.every(stuff => item.stuffs.includes(stuff))
-                    const toolFlag = item.tools?.includes(tool)
+                    const toolFlag = tool === '一口能炒又能煮的大锅' || item.tools?.includes(tool)
                     return tool ? stuffFlag && toolFlag : stuffFlag
                 })
             case 'loose':
                 return recipes.filter((item) => {
                     const stuffFlag = stuffs.some(stuff => item.stuffs.includes(stuff))
-                    const toolFlag = item.tools?.includes(tool)
+                    const toolFlag = tool === '一口能炒又能煮的大锅' ||item.tools?.includes(tool)
                     // 同时存在 厨具和材料，则同时判断
                     if (tool && stuffs.length) {
                         return stuffFlag && toolFlag
@@ -37,7 +37,7 @@ export function DishResult() {
             case 'survival':
                 return recipes.filter((item) => {
                     const stuffFlag = item.stuffs.every(stuff => stuffs.includes(stuff))
-                    const toolFlag = item.tools?.includes(tool)
+                    const toolFlag = tool === '一口能炒又能煮的大锅' || item.tools?.includes(tool)
                     return tool ? stuffFlag && toolFlag : stuffFlag
                 })
         }

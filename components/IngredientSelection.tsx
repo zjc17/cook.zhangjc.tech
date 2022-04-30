@@ -66,7 +66,7 @@ export default function IngredientSelection() {
                 {tools.map((value, index) =>
                     <ToolTag id={index} value={value} isSelected={tool === value} toogleTag={toogleTool} />)}
             </Row>
-            <Row>
+            {/* <Row>
                 工具：{userRecipeState(state => state.tool)}
             </Row>
             <Row>
@@ -74,7 +74,7 @@ export default function IngredientSelection() {
             </Row>
             <Row>
                 模式：{userRecipeState(state => state.searchMode)}
-            </Row>
+            </Row> */}
         </Grid.Container >
     </Container>
 }
