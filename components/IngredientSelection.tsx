@@ -58,7 +58,7 @@ export default function IngredientSelection() {
 
             <Spacer y={2} />
             <Row justify="center" align="center">
-                <Text h4 weight="bold" css={{ opacity: 0.8 }}>
+                <Text h3 weight="bold" css={{ opacity: 0.8 }}>
                     🍳 再选一下厨具
                 </Text>
             </Row>
@@ -70,7 +70,7 @@ export default function IngredientSelection() {
                 工具：{userRecipeState(state => state.tool)}
             </Row>
             <Row>
-                食材：{userRecipeState(state => state.selectedStuff)()}
+                食材：{Array.from(userRecipeState(state => state.stuffs)).join(',')}
             </Row>
         </Grid.Container >
     </Container>

@@ -43,7 +43,11 @@ export const userRecipeState = create<UserRecipeState>()(devtools((set, get) => 
   toggleTool: (name: string) => set((state) => ({
     tool: state.tool === name ? '' : name,
   })),
-  reset: () => set({ }, true),
+  reset: () => set({
+    stuffs: new Set<string>(),
+    tool: '',
+    searchMode: 'strict',
+  }),
   setSearchMode: (name: SearchMode) => set(() => ({
     searchMode: name,
   })),
