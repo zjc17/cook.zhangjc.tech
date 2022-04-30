@@ -33,7 +33,7 @@ export default function IngredientSelection() {
             </Row>
             <Row wrap="wrap" justify="center" align="center" >
                 {vegatables.map((value, index) =>
-                    <VegetableTag key={index} value={value} isSelected={stuffs.has(value)} toogleTag={toogleStuff} />)}
+                    <VegetableTag id={index} value={value} isSelected={stuffs.has(value)} toogleTag={toogleStuff} />)}
             </Row>
             <Spacer y={1} />
             <Row justify="center" align="center">
@@ -43,7 +43,7 @@ export default function IngredientSelection() {
             </Row>
             <Row wrap="wrap" justify="center" align="center" >
                 {meats.map((value, index) =>
-                    <MeatTag key={index} value={value} isSelected={stuffs.has(value)} toogleTag={toogleStuff} />)}
+                    <MeatTag id={index} value={value} isSelected={stuffs.has(value)} toogleTag={toogleStuff} />)}
             </Row>
             <Spacer y={1} />
             <Row justify="center" align="center">
@@ -53,7 +53,7 @@ export default function IngredientSelection() {
             </Row>
             <Row wrap="wrap" justify="center" align="center" >
                 {stapleFood.map((value, index) =>
-                    <StapleTag key={index} value={value} isSelected={stuffs.has(value)} toogleTag={toogleStuff} />)}
+                    <StapleTag id={index} value={value} isSelected={stuffs.has(value)} toogleTag={toogleStuff} />)}
             </Row>
 
             <Spacer y={2} />
@@ -64,14 +64,14 @@ export default function IngredientSelection() {
             </Row>
             <Row wrap="wrap" justify="center" align="center" >
                 {tools.map((value, index) =>
-                    <ToolTag key={index} value={value} isSelected={tool === value} toogleTag={toogleTool} />)}
+                    <ToolTag id={index} value={value} isSelected={tool === value} toogleTag={toogleTool} />)}
             </Row>
-            <Row>
+            {/* <Row>
                 工具：{userRecipeState(state => state.tool)}
             </Row>
             <Row>
                 食材：{Array.from(userRecipeState(state => state.stuffs)).join(',')}
-            </Row>
+            </Row> */}
         </Grid.Container >
     </Container>
 }

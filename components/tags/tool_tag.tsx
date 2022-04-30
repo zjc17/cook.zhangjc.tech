@@ -3,12 +3,12 @@ import React, { useState } from 'react';
 import { userRecipeState } from '../../store/recipe'
 
 export default function ToolTag({
-  key,
+  id: key,
   value,
   isSelected,
   toogleTag,
 }: {
-  key: string | number,
+  id: string | number,
   value: string,
   isSelected: boolean,
   toogleTag: (name: string) => void,

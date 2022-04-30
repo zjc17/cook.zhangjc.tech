@@ -2,12 +2,12 @@ import { Container, Card, Row, Text, Grid, CSS, useTheme } from "@nextui-org/rea
 import React, { useState } from 'react';
 
 export default function StapleTag({
-  key,
+  id: key,
   value,
   isSelected,
   toogleTag,
 }: {
-  key: string | number,
+  id: string | number,
   value: string,
   isSelected: boolean,
   toogleTag: (name: string) => void,
