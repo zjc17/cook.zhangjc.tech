@@ -5,9 +5,9 @@ import StapleTag from '../components/tags/staple_tag'
 import ToolTag from '../components/tags/tool_tag'
 import { userRecipeState } from '../store/recipe'
 
-const vegatables: Array<string> = ["🥔土豆", "🥕胡萝卜", "🥦花菜", "🥣白萝卜", "🥒西葫芦", "🍅番茄", "🥬芹菜", "🥒黄瓜", "🧅洋葱", "🎍莴笋", "🍄菌菇", "🍆茄子", "🍲豆腐", "🥗包菜", "🥬白菜",]
-const meats: Array<string> = ["🥓午餐肉", "🌭香肠", "🌭腊肠", "🐤鸡肉", "🐷猪肉", "🥚鸡蛋", "🦐虾", "🐮牛肉", "🦴骨头"]
-const stapleFood: Array<string> = ["🍝面食", "🍞面包", "🍚米", "🍜方便面",]
+const vegatables: Array<string> = ["土豆", "胡萝卜", "花菜", "白萝卜", "西葫芦", "番茄", "芹菜", "黄瓜", "洋葱", "莴笋", "菌菇", "茄子", "豆腐", "包菜", "白菜",]
+const meats: Array<string> = ["午餐肉", "香肠", "腊肠", "鸡肉", "猪肉", "鸡蛋", "虾", "牛肉", "骨头"]
+const stapleFood: Array<string> = ["面食", "面包", "米", "方便面",]
 const tools: Array<string> = ["烤箱", "空气炸锅", "微波炉", "电饭煲", "一口能炒又能煮的大锅",]
 
 export default function IngredientSelection() {
@@ -66,12 +66,15 @@ export default function IngredientSelection() {
                 {tools.map((value, index) =>
                     <ToolTag id={index} value={value} isSelected={tool === value} toogleTag={toogleTool} />)}
             </Row>
-            {/* <Row>
+            <Row>
                 工具：{userRecipeState(state => state.tool)}
             </Row>
             <Row>
                 食材：{Array.from(userRecipeState(state => state.stuffs)).join(',')}
-            </Row> */}
+            </Row>
+            <Row>
+                模式：{userRecipeState(state => state.searchMode)}
+            </Row>
         </Grid.Container >
     </Container>
 }
