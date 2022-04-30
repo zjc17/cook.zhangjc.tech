@@ -36,7 +36,7 @@ export interface UserRecipeState {
 export const userRecipeState = create<UserRecipeState>()(devtools((set, get) => ({
   stuffs: new Set<string>(),
   tool: '',
-  searchMode: 'strict',
+  searchMode: 'loose',
   toggleStuff: (name: string) => set((state) => ({
     stuffs: toggleStaff(state.stuffs, name),
   })),
@@ -46,7 +46,7 @@ export const userRecipeState = create<UserRecipeState>()(devtools((set, get) => 
   reset: () => set({
     stuffs: new Set<string>(),
     tool: '',
-    searchMode: 'strict',
+    searchMode: 'loose',
   }),
   setSearchMode: (name: SearchMode) => set(() => ({
     searchMode: name,

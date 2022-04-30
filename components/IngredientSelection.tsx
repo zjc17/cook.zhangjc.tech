@@ -48,7 +48,7 @@ export default function IngredientSelection() {
             <Spacer y={1} />
             <Row justify="center" align="center">
                 <Text h4 weight="bold" css={{ opacity: 0.8 }}>
-                    🍚 主食也要一起下锅吗？（不选也行）
+                    🍚 来点主食？（不选也行）
                 </Text>
             </Row>
             <Row wrap="wrap" justify="center" align="center" >
