@@ -13,11 +13,9 @@ export default function DishTag({
   const { theme } = useTheme();
   return (
     <Grid key={key} css={{margin: '2px'}} >
-      <Card clickable bordered shadow={false} animated={false} onClick={(event: any) => {
-        // toogleTag(value);
-      }}>
+      <Card clickable bordered shadow={false} animated={false}>
         <Card.Body css={{padding: '2px 8px', backgroundColor: theme.colors.blue100}}>
-          <Text h6 weight={'normal'} css={{ color: theme.colors.blue700 }} >{recipe.name}</Text>
+          <a href={recipe.link} target='_blank'><Text h6 weight={'normal'} css={{ color: theme.colors.blue700 }} >{recipe.name}</Text></a>
         </Card.Body>
       </Card>
     </Grid>
