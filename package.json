@@ -20,6 +20,8 @@
     "zustand": "^4.0.0-rc.1"
   },
   "devDependencies": {
+    "@iconify/icons-arcticons": "^1.2.14",
+    "@iconify/icons-ic": "^1.2.3",
     "@iconify/icons-mdi": "^1.2.9",
     "@iconify/react": "^3.2.1",
     "@types/node": "^16.3.3",

@@ -5,13 +5,12 @@ import { ToggleMode } from "./ToggleMode";
 import { userRecipeState } from "../store/recipe";
 const recipes = LoadRecipe()
 
-export function DishResult() {
-    const { theme } = useTheme();
+function Result() {
     const searchMode = userRecipeState(state => state.searchMode)
     const tool = userRecipeState(state => state.tool)
+    const stuffs: Array<string> = Array.from(userRecipeState(state => state.stuffs))
 
-    const displayRecipes: Recipe =function (){
-        const stuffs: Array<string> = Array.from(userRecipeState(state => state.stuffs))
+    const displayRecipes: Recipe = function () {
         switch (searchMode) {
             case 'strict':
                 return recipes.filter((item) => {
@@ -22,7 +21,7 @@ export function DishResult() {
             case 'loose':
                 return recipes.filter((item) => {
                     const stuffFlag = stuffs.some(stuff => item.stuffs.includes(stuff))
-                    const toolFlag = tool === '一口能炒又能煮的大锅' ||item.tools?.includes(tool)
+                    const toolFlag = tool === '一口能炒又能煮的大锅' || item.tools?.includes(tool)
                     // 同时存在 厨具和材料，则同时判断
                     if (tool && stuffs.length) {
                         return stuffFlag && toolFlag
@@ -43,16 +42,31 @@ export function DishResult() {
         }
     }()
 
+    if (stuffs.length === 0 && !tool) {
+        return (
+            <Row wrap="wrap" justify="center" align="center" >
+                <Text h5 weight='normal' css={{ opacity: 0.8 }} >你要先选食材或工具哦～</Text>
+            </Row>
+        )
+    } else {
+        return (
+            <Row wrap="wrap" justify="center" align="center" >
+                {displayRecipes.map((value, index) =>
+                    <DishTag id={index} recipe={value} />)}
+            </Row>
+        )
+    }
+}
+
+export function DishResult() {
+    const { theme } = useTheme();
     return (
         <Container xl css={{ backgroundColor: theme.colors.gray100, padding: '8px' }}>
             <Row justify="center" align="center">
                 <Text h3 weight="normal">🍲 来看看组合出的菜谱吧！</Text>
             </Row>
             <ToggleMode />
-            <Row wrap="wrap" justify="center" align="center" >
-                {displayRecipes.map((value, index) =>
-                    <DishTag id={index} recipe={value} />)}
-            </Row>
+            <Result />
         </Container>
     )
 }
