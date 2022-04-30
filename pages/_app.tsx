@@ -3,6 +3,8 @@ import { AppProps } from 'next/app'
 import Script from 'next/script';
 import { createTheme, NextUIProvider } from "@nextui-org/react"
 import { ThemeProvider as NextThemesProvider } from 'next-themes';
+import { installPrompt } from '../lib/pwa'
+
 
 const lightTheme = createTheme({
   type: 'light',
@@ -19,6 +21,7 @@ const darkTheme = createTheme({
 })
 
 export default function App({ Component, pageProps }: AppProps) {
+  installPrompt()
   return (
     <NextThemesProvider
       defaultTheme="system"

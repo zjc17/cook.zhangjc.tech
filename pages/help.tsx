@@ -1,6 +1,7 @@
 import { Container, Card, Row, Text, Grid, Spacer, Button, useTheme } from "@nextui-org/react";
 import { BaseFooter } from "../components/BaseFooter";
 import { Menu } from "../components/Menu";
+import { InstallPWA } from '../components/InstallPwa'
 
 // const recipe: Recipe = recipeData as Recipe
 
@@ -40,6 +41,7 @@ export default function Help() {
             <li>本项目支持 PWA，使用浏览器打开时，可将其添加到主屏幕以获得近原生 APP 的体验。</li>
           </ul>
         </Text>
+        <InstallPWA />
       </Container>
 
       <Spacer y={2} />
