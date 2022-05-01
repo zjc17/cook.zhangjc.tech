@@ -8,6 +8,8 @@ const recipes = LoadRecipe()
 function Result() {
     const searchMode = userRecipeState(state => state.searchMode)
     const tool = userRecipeState(state => state.tool)
+    const curTool = tool === '一口能炒又能煮的大锅' ? '一口大锅' : tool
+
     const stuffs: Array<string> = Array.from(userRecipeState(state => state.stuffs))
 
     const displayRecipes: Recipe = function () {
@@ -15,20 +17,20 @@ function Result() {
             case 'strict':
                 return recipes.filter((item) => {
                     const stuffFlag = stuffs.every(stuff => item.stuffs.includes(stuff))
-                    const toolFlag = tool === '一口能炒又能煮的大锅' || item.tools?.includes(tool)
-                    return tool ? stuffFlag && toolFlag : stuffFlag
+                    const toolFlag = item.tools?.includes(curTool)
+                    return curTool ? stuffFlag && toolFlag : stuffFlag
                 })
             case 'loose':
                 return recipes.filter((item) => {
                     const stuffFlag = stuffs.some(stuff => item.stuffs.includes(stuff))
-                    const toolFlag = tool === '一口能炒又能煮的大锅' || item.tools?.includes(tool)
+                    const toolFlag = item.tools?.includes(curTool)
                     // 同时存在 厨具和材料，则同时判断
-                    if (tool && stuffs.length) {
+                    if (curTool && stuffs.length) {
                         return stuffFlag && toolFlag
                     } else {
                         if (stuffs.length)
                             return stuffFlag
-                        else if (tool)
+                        else if (curTool)
                             return toolFlag
                         return false
                     }
@@ -36,8 +38,8 @@ function Result() {
             case 'survival':
                 return recipes.filter((item) => {
                     const stuffFlag = item.stuffs.every(stuff => stuffs.includes(stuff))
-                    const toolFlag = tool === '一口能炒又能煮的大锅' || item.tools?.includes(tool)
-                    return tool ? stuffFlag && toolFlag : stuffFlag
+                    const toolFlag = item.tools?.includes(curTool)
+                    return curTool ? stuffFlag && toolFlag : stuffFlag
                 })
         }
     }()
