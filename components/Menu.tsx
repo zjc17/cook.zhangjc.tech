@@ -9,6 +9,9 @@ import sunIcon from '@iconify/icons-cil/sun';
 import moonIcon from '@iconify/icons-bytesize/moon';
 import questionCircleOutlined from '@iconify/icons-ant-design/question-circle-outlined';
 import githubOutline from "@iconify/icons-eva/github-outline";
+import plantPot from '@iconify/icons-charm/plant-pot';
+import plantOutline from '@iconify/icons-teenyicons/plant-outline';
+
 
 
 function ThemeSwitch() {
@@ -35,6 +38,11 @@ export function Menu() {
         </Link>
       </Grid>
       <Grid css={{ margin: '2px 8px' }}>
+        <Link href="/plant">
+          <Icon icon={plantOutline} width="25" height="25" color={theme.colors.foreground.value} />
+        </Link>
+      </Grid>
+      <Grid css={{ margin: '2px 8px' }}>
         <ThemeSwitch />
       </Grid>
       <Grid css={{ margin: '2px 8px' }}>
@@ -47,7 +55,6 @@ export function Menu() {
           <a target='_blank'><Icon icon={githubOutline} width="25" height="25" color={theme.colors.foreground.value} /></a>
         </Link>
       </Grid>
-
       {/* <div>
         The current theme is: {type}
         <Switch

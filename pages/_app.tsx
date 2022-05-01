@@ -33,7 +33,7 @@ export default function App({ Component, pageProps }: AppProps) {
     >
       <NextUIProvider>
         <GoogleAnalytics />
-
+        <GoogleAdsTrace />
         <Component {...pageProps} />
       </NextUIProvider>
     </NextThemesProvider>
@@ -51,6 +51,23 @@ function GoogleAnalytics() {
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}');
+        `}
+      </Script>
+    </>
+  )
+}
+
+function GoogleAdsTrace() {
+  return (
+    <>
+      {/* <!-- Global site tag (gtag.js) - Google Ads --> */}
+      <Script strategy="lazyOnload" src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ADS}`}></Script>
+      <Script strategy="lazyOnload">
+        {`
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ADS}');
         `}
       </Script>
     </>
