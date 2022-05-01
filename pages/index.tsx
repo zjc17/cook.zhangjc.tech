@@ -24,7 +24,7 @@ export default function App() {
       <DishResult />
 
       <Row justify="center" align="center">
-        <a href="https://docs.qq.com/sheet/DZUpJS0tQZm1YYWlt?referrer=1&tab=mwn1v5">
+        <a href="https://docs.qq.com/sheet/DZUpJS0tQZm1YYWlt?referrer=1&tab=mwn1v5" target='_blank'>
           <Text h5 weight='thin' css={{
             color: theme.colors.blue500,
             margin: '8px',
