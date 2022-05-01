@@ -8,6 +8,7 @@ import homeIcon from '@iconify/icons-akar-icons/home';
 import sunIcon from '@iconify/icons-cil/sun';
 import moonIcon from '@iconify/icons-bytesize/moon';
 import questionCircleOutlined from '@iconify/icons-ant-design/question-circle-outlined';
+import githubOutline from "@iconify/icons-eva/github-outline";
 
 
 function ThemeSwitch() {
@@ -39,6 +40,11 @@ export function Menu() {
       <Grid css={{ margin: '2px 8px' }}>
         <Link href="/help">
           <Icon icon={questionCircleOutlined} width="25" height="25" color={theme.colors.foreground.value} />
+        </Link>
+      </Grid>
+      <Grid css={{ margin: '2px 8px' }}>
+        <Link href="https://github.com/zjc17/cook.zhangjc.tech">
+          <a target='_blank'><Icon icon={githubOutline} width="25" height="25" color={theme.colors.foreground.value} /></a>
         </Link>
       </Grid>
 
