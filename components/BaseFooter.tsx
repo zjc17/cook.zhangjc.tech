@@ -8,7 +8,7 @@ export function BaseFooter() {
         <Container>
             <Row justify="center" align="center" css={{ marginTop: '8px' }}>
                 <a href="https://bjca.miit.gov.cn/">
-                    <Text h5 weight='light' css={{ opacity: '0.8' }}>京ICP备2021013281号-1</Text>
+                    <Text h5 weight='light' css={{ opacity: '0.8' }}>京ICP备2021013281号</Text>
                 </a>
             </Row>
             <Row justify="center" align="center">
