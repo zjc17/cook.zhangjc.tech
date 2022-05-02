@@ -17,9 +17,10 @@ function ResetButton(props) {
 export default function ResetPrompt() {
   return (
     <Container>
-      <Row justify="center" align="center">
+      <Row justify="center" align="center" style={{ height: '44px' }}>
         <ResetButton />
       </Row>
+
       <Row justify="center" align="center">
         <Text h5 weight="normal">好的，今天我们来做菜！</Text>
       </Row>

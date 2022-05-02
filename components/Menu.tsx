@@ -31,7 +31,7 @@ function ThemeSwitch() {
 export function Menu() {
   const { theme } = useTheme();
   return (
-    <Row wrap="wrap" justify="center" align="center" css={{ height: '29px' }}>
+    <Row wrap="wrap" justify="center" align="center" style={{ height: '29px' }}>
       <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
         <Link href="/">
           <Icon icon={homeIcon} width="25" height="25" color={theme.colors.foreground.value} />
