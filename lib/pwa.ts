@@ -1,5 +1,5 @@
 import { appState } from "../store/app"
-import React from 'react';
+import { useEffect } from "react";
 
 
 /**
@@ -15,7 +15,7 @@ export function installPrompt() {
   //   window.document && window.document.createElement) {
   //   return
   // }
-  React.useEffect(() => {
+  useEffect(() => {
     window.addEventListener('beforeinstallprompt', (e) => {
       // Prevent the mini-infobar from appearing on mobile
       // e.preventDefault()
@@ -38,7 +38,4 @@ export function installPrompt() {
       console.log('PWA was installed')
     })
   });
-
-
-  
 }

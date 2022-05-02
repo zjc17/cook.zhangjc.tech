@@ -2,6 +2,7 @@
 /public/sw.js
 /public/sw.js.map
 /public/workbox*
+/public/worker-development.js
 /public/sitemap*
 # dependencies
 /node_modules

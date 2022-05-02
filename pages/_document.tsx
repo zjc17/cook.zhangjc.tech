@@ -33,8 +33,6 @@ function PWA() {
     <>
       <title>居家食用手册</title>
       <meta name='application-name' content='居家食用手册' />
-      <meta name='apple-mobile-web-app-capable' content='yes' />
-      <meta name='apple-mobile-web-app-status-bar-style' content='default' />
       <meta name='apple-mobile-web-app-title' content='居家食用手册' />
       <meta name='description' content='居家食用手册' />
       <meta name='format-detection' content='telephone=no' />
@@ -43,9 +41,6 @@ function PWA() {
       <meta name='msapplication-TileColor' content='#2B5797' />
       <meta name='msapplication-tap-highlight' content='no' />
       <meta name='theme-color' content='#000000' />
-
-      <link rel='apple-touch-icon' href='/icons/icon-192x192.png' />
-      <link rel='apple-touch-icon' sizes='192x192' href='/icons/icon-192x192.png' />
 
       <link rel='icon' type='image/png' sizes='48x48' href='/icons/icon-48x48.png' />
       <link rel='manifest' href='/manifest.json' />
@@ -65,6 +60,19 @@ function PWA() {
       <meta property='og:site_name' content='The Daily Awesome' />
       <meta property='og:url' content='https://www.zhangjc.com' />
       <meta property='og:image' content='https://www.zhangjc.tech/icons/apple-touch-icon.png' />
+
+      <meta name='apple-mobile-web-app-status-bar-style' content='default' />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <link rel='apple-touch-icon' href='/icons/icon-192x192.png' />
+      <link rel='apple-touch-icon' sizes='192x192' href='/icons/icon-192x192.png' />
+      <link rel='apple-touch-icon' sizes='512x512' href='/icons/icon-512x512.png' />
+      <link href="/icons/apple_splash_2048.png" sizes="2048x2732" rel="apple-touch-startup-image" />
+      <link href="/icons/apple_splash_1668.png" sizes="1668x2224" rel="apple-touch-startup-image" />
+      <link href="/icons/apple_splash_1536.png" sizes="1536x2048" rel="apple-touch-startup-image" />
+      <link href="/icons/apple_splash_1125.png" sizes="1125x2436" rel="apple-touch-startup-image" />
+      <link href="/icons/apple_splash_1242.png" sizes="1242x2208" rel="apple-touch-startup-image" />
+      <link href="/icons/apple_splash_750.png" sizes="750x1334" rel="apple-touch-startup-image" />
+      <link href="/icons/apple_splash_640.png" sizes="640x1136" rel="apple-touch-startup-image" />
     </>
   )
 }

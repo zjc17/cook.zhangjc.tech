@@ -33,7 +33,7 @@ export default function App({ Component, pageProps }: AppProps) {
     >
       <NextUIProvider>
         <GoogleAnalytics />
-        <GoogleAdsTrace />
+        {/* <GoogleAdsTrace /> */}
         <Component {...pageProps} />
       </NextUIProvider>
     </NextThemesProvider>
