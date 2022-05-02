@@ -1,0 +1,52 @@
+[
+  {
+    "name": "猪肉菜",
+    "slug": "pork",
+    "cover": "https://image-hosting.zhangjc.tech/img/202205030324593.png"
+  },
+  {
+    "name": "鸡鸭菜",
+    "slug": "chicken",
+    "cover": "https://image-hosting.zhangjc.tech/img/202205030334534.png"
+  },
+  {
+    "name": "牛羊菜",
+    "slug": "beef",
+    "cover": "https://image-hosting.zhangjc.tech/img/202205030338605.png"
+  },
+  {
+    "name": "鱼菜",
+    "slug": "fish",
+    "cover": "https://image-hosting.zhangjc.tech/img/202205030339119.png"
+  },
+  {
+    "name": "虾菜/海菜",
+    "slug": "seafood",
+    "cover": "https://image-hosting.zhangjc.tech/img/202205030340044.png"
+  },
+  {
+    "name": "家常菜",
+    "slug": "daily",
+    "cover": "https://image-hosting.zhangjc.tech/img/202205030341999.png"
+  },
+  {
+    "name": "主食",
+    "slug": "staple",
+    "cover": "https://image-hosting.zhangjc.tech/img/202205030341735.png"
+  },
+  {
+    "name": "小吃甜品",
+    "slug": "dessert",
+    "cover": "https://image-hosting.zhangjc.tech/img/202205030342083.png"
+  },
+  {
+    "name": "汤菜",
+    "slug": "soup",
+    "cover": "https://image-hosting.zhangjc.tech/img/202205030343974.png"
+  },
+  {
+    "name": "凉菜",
+    "slug": "cold-dish",
+    "cover": "https://image-hosting.zhangjc.tech/img/202205030343349.png"
+  }
+]

@@ -5,3 +5,11 @@ export interface LaofanguDishItem {
 }
 
 export type LaofanguDish = LaofanguDishItem[]
+
+export interface LaofanguCategoryItem {
+  name: string
+  slug: string
+  cover: string
+}
+
+export type LaofanguCategory = LaofanguCategoryItem[]
