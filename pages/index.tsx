@@ -10,16 +10,15 @@ import { Menu } from "../components/Menu";
 
 export default function App() {
   const { theme } = useTheme();
-
   return (
     <Container xl>
-      <br />
+      <Spacer style={{height: theme.space[1].value}} />
       <Menu />
-      <br />
+      <Spacer style={{height: theme.space[1].value}} />
       <ResetPrompt />
-      <br /><br />
+      <Spacer style={{height: theme.space[2].value}} />
       <IngredientSelection />
-      <br />
+      <Spacer style={{height: theme.space[1].value}} />
       <DishResult />
 
       <Row justify="center" align="center">
