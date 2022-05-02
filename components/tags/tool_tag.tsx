@@ -1,6 +1,6 @@
 import { Container, Card, Row, Text, Grid, CSS, useTheme } from "@nextui-org/react";
 import React, { useState } from 'react';
-import { userRecipeState } from '../../store/recipe'
+import Emoji from "../types/stuff_emoji";
 
 export default function ToolTag({
   id: key,
@@ -26,12 +26,15 @@ export default function ToolTag({
   }
   var style = isSelected ? selectedStyle : unSelectedStyle;
   return (
-    <Grid key={key} css={{margin: '2px'}}>
+    <Grid key={key} css={{ margin: '2px' }}>
       <Card clickable bordered shadow={false} animated={false} onClick={(event: any) => {
         toogleTag(value);
       }}>
         <Card.Body css={style}>
-          <Text h6 weight={'normal'} css={{ color: style.color }} >{value}</Text>
+          <Row>
+            <Emoji name={value} />
+            <Text h6 weight={'normal'} css={{ color: style.color }} >{value}</Text>
+          </Row>
         </Card.Body>
       </Card>
     </Grid>

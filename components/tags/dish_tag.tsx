@@ -2,6 +2,7 @@ import { Container, Card, Row, Text, Grid, CSS, useTheme } from "@nextui-org/rea
 import React, { useState } from 'react';
 import { userRecipeState } from '../../store/recipe'
 import { RecipeItem } from "../types/recipe";
+import Emoji from "../types/stuff_emoji";
 
 export default function DishTag({
   id: key,
@@ -17,10 +18,18 @@ export default function DishTag({
   }
 
   return (
-    <Grid key={key} css={{margin: '2px'}} >
+    <Grid key={key} css={{ margin: '2px' }} >
       <Card clickable bordered shadow={false} animated={false}>
-        <Card.Body css={{padding: '2px 8px', backgroundColor: style.backgroundColor }}>
-          <a href={recipe.link} target='_blank'><Text h6 weight={'normal'} css={{ color: style.color }} >{recipe.name}</Text></a>
+        <Card.Body css={{ padding: '2px 8px', backgroundColor: style.backgroundColor }}>
+          <a href={recipe.link} target='_blank'>
+            <Text h6 weight={'normal'} css={{ color: style.color }} >
+              <Row wrap="wrap" justify="flex-start">
+                {recipe.stuffs.slice(0,3).map((value, index) => <Emoji name={value} />)}
+                {recipe.name}
+                {recipe.tools.map((value, index) => <Emoji name={value} />)}
+              </Row>
+            </Text>
+          </a>
         </Card.Body>
       </Card>
     </Grid>
