@@ -76,14 +76,11 @@ const emojiMap: Map<string, Emoji> = new Map([
 
 export default function Emoji({ name }: { name: string }) {
   const icon = emojiMap.get(name)
-  console.log('name', name)
-  console.log('icon', icon)
   const size = 20
   if (!icon) {
     return <></>
   }
   if (icon.icon8Cdn) {
-    console.log('icon.icon8Cdn')
     return (
       <Image src={icon.icon8Cdn} width={size} height={size} ></Image>
     )

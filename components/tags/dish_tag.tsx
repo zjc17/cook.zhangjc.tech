@@ -22,13 +22,13 @@ export default function DishTag({
       <Card clickable bordered shadow={false} animated={false}>
         <Card.Body css={{ padding: '2px 8px', backgroundColor: style.backgroundColor }}>
           <a href={recipe.link} target='_blank'>
-            <Text h6 weight={'normal'} css={{ color: style.color }} >
-              <Row wrap="wrap" justify="flex-start">
-                {recipe.stuffs.slice(0,3).map((value, index) => <Emoji name={value} />)}
+            <Row wrap="wrap" justify="flex-start">
+              {recipe.stuffs.slice(0, 3).map((value, index) => <Emoji name={value} />)}
+              <Text h6 weight={'normal'} css={{ color: style.color, padding: '0px 4px' }} >
                 {recipe.name}
-                {recipe.tools.map((value, index) => <Emoji name={value} />)}
-              </Row>
-            </Text>
+              </Text>
+              {recipe.tools.map((value, index) => <Emoji name={value} />)}
+            </Row>
           </a>
         </Card.Body>
       </Card>

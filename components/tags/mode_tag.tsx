@@ -6,7 +6,7 @@ import { SearchMode } from "../../store/recipe";
 
 
 export default function ModTag({
-  id,
+  id: key,
   value,
   isSelected,
   toogleTag,
@@ -31,9 +31,9 @@ export default function ModTag({
   const setSearchMode = userRecipeState(state => state.setSearchMode)
 
   return (
-    <Grid key={id} css={{margin: '2px'}}>
+    <Grid key={key} css={{ margin: '2px' }}>
       <Card clickable bordered shadow={false} animated={false} onClick={(event: any) => {
-        setSearchMode(id);
+        setSearchMode(key);
       }}>
         <Card.Body css={style}>
           <Text h6 weight={'normal'} css={{ color: style.color }} >{value}</Text>

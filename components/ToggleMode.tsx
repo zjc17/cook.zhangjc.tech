@@ -32,7 +32,7 @@ export function ToggleMode() {
       {
         searchModes.map((value) => {
           return (
-            <ModTag id={value.id} value={value.name} isSelected={searchMode === value.id} toogleTag={setSearchMode} />
+            <ModTag id={value.id} key={value.id} value={value.name} isSelected={searchMode === value.id} toogleTag={setSearchMode} />
           )
         })
       }
