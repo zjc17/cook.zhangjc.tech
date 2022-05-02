@@ -33,7 +33,7 @@ export default function ToolTag({
         <Card.Body css={style}>
           <Row>
             <Emoji name={value} />
-            <Text h6 weight={'normal'} css={{ color: style.color }} >{value}</Text>
+            <Text h6 weight={'normal'} css={{ color: style.color, paddingLeft: '4px' }} >{value}</Text>
           </Row>
         </Card.Body>
       </Card>

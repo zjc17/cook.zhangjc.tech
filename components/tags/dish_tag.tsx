@@ -27,7 +27,7 @@ export default function DishTag({
               <Text h6 weight={'normal'} css={{ color: style.color, padding: '0px 4px' }} >
                 {recipe.name}
               </Text>
-              {recipe.tools.map((value, index) => <Emoji name={value} />)}
+              {recipe.tools.map((value, index) => <Emoji name={value} color={theme.colors.foreground.value} />)}
             </Row>
           </a>
         </Card.Body>

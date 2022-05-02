@@ -24,8 +24,7 @@ import toasterOven from '@iconify/icons-mdi/toaster-oven';
 import microwaveOven from '@iconify/icons-icon-park-outline/microwave-oven';
 import smartHomeCooker from '@iconify/icons-gg/smart-home-cooker';
 import potSteamOutline from '@iconify/icons-mdi/pot-steam-outline';
-
-
+import multicookerOutline from '@iconify/icons-material-symbols/multicooker-outline';
 
 interface Emoji {
   iconifyIcon?: IconifyIcon
@@ -67,26 +66,26 @@ const emojiMap: Map<string, Emoji> = new Map([
   ["米", { iconifyIcon: cookedRice }],
   ["方便面", { icon8Cdn: 'https://img.icons8.com/external-wanicon-lineal-color-wanicon/20/000000/external-noodles-takeaway-wanicon-lineal-color-wanicon.png' }],  // <a target="_blank" href="https://icons8.com/icon/5nhiG01WkyRF/noodles">Noodles icon by Icons8</a>
   ["烤箱", { iconifyIcon: toasterOven }],
-  ["空气炸锅", { icon8Cdn: 'https://img.icons8.com/external-itim2101-lineal-itim2101/20/000000/external-air-fryer-household-equipment-itim2101-lineal-itim2101.png' }], // <a target="_blank" href="https://icons8.com/icon/QUmzfo3b2pge/air-fryer">Air Fryer icon by Icons8</a>
+  ["空气炸锅", { iconifyIcon: multicookerOutline, icon8Cdn: 'https://img.icons8.com/external-itim2101-lineal-itim2101/20/000000/external-air-fryer-household-equipment-itim2101-lineal-itim2101.png' }], // <a target="_blank" href="https://icons8.com/icon/QUmzfo3b2pge/air-fryer">Air Fryer icon by Icons8</a>
   ["微波炉", { iconifyIcon: microwaveOven }],
   ["电饭煲", { iconifyIcon: smartHomeCooker }],
   ["一口能炒又能煮的大锅", { iconifyIcon: potSteamOutline }],
   ['一口大锅', { iconifyIcon: potSteamOutline }],
 ])
 
-export default function Emoji({ name }: { name: string }) {
+export default function Emoji({ name, color }: { name: string, color?: string }) {
   const icon = emojiMap.get(name)
   const size = 20
   if (!icon) {
     return <></>
   }
-  if (icon.icon8Cdn) {
+  if (icon.iconifyIcon) {
+    return (
+      <Icon icon={icon.iconifyIcon} width={size} height={size} color={color} />
+    )
+  } else if (icon.icon8Cdn) {
     return (
       <Image src={icon.icon8Cdn} width={size} height={size} ></Image>
-    )
-  } else if (icon.iconifyIcon) {
-    return (
-      <Icon icon={icon.iconifyIcon} width={size} height={size} />
     )
   }
   return <></>
