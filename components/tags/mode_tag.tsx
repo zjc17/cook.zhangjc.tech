@@ -1,5 +1,5 @@
-import { Container, Card, Row, Text, Grid, CSS, useTheme } from "@nextui-org/react";
-import React, { useState } from 'react';
+import { Card, Text, Grid, CSS, useTheme } from "@nextui-org/react";
+import React from 'react';
 import { userRecipeState } from '../../store/recipe'
 import { SearchMode } from "../../store/recipe";
 

@@ -1,4 +1,4 @@
-import { Container, Card, Row, Text, Grid, Spacer } from "@nextui-org/react";
+import { Container, Row, Text } from "@nextui-org/react";
 import { Icon } from '@iconify/react';
 import potMixOutline from '@iconify/icons-mdi/pot-mix-outline';
 import potSteamOutline from '@iconify/icons-mdi/pot-steam-outline';

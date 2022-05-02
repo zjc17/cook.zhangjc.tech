@@ -1,7 +1,7 @@
-import { Container, Card, Row, Text, Grid, Spacer } from "@nextui-org/react";
+import { Row, Grid } from "@nextui-org/react";
 import Link from "next/link"
 import { useTheme as useNextTheme } from 'next-themes'
-import { Switch, useTheme } from '@nextui-org/react'
+import { useTheme } from '@nextui-org/react'
 
 import { Icon } from '@iconify/react';
 import homeIcon from '@iconify/icons-akar-icons/home';
@@ -9,7 +9,7 @@ import sunIcon from '@iconify/icons-cil/sun';
 import moonIcon from '@iconify/icons-bytesize/moon';
 import questionCircleOutlined from '@iconify/icons-ant-design/question-circle-outlined';
 import githubOutline from "@iconify/icons-eva/github-outline";
-import plantPot from '@iconify/icons-charm/plant-pot';
+// import plantPot from '@iconify/icons-charm/plant-pot';
 import plantOutline from '@iconify/icons-teenyicons/plant-outline';
 
 

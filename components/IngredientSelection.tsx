@@ -1,4 +1,4 @@
-import { Container, Card, Row, Text, Grid, Spacer } from "@nextui-org/react";
+import { Container, Row, Text, Grid, Spacer } from "@nextui-org/react";
 import VegetableTag from "../components/tags/vegetable_tag"
 import MeatTag from "../components/tags/meat_tag"
 import StapleTag from '../components/tags/staple_tag'

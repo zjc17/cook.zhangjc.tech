@@ -1,5 +1,5 @@
 import create from "zustand"
-import { devtools, persist } from "zustand/middleware"
+import { devtools } from "zustand/middleware"
 
 function toggleStaff(stuffs: Set<string>, stuff: string): Set<string> {
   if (!stuff) {

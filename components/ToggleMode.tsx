@@ -1,4 +1,4 @@
-import { Container, Card, Row, Text, Grid, CSS, useTheme } from "@nextui-org/react";
+import { Row, CSS, useTheme } from "@nextui-org/react";
 import { SearchMode } from "../store/recipe";
 import { userRecipeState } from "../store/recipe";
 import ModTag from "./tags/mode_tag";

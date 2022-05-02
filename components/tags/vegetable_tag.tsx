@@ -1,9 +1,9 @@
-import { Container, Card, Row, Text, Grid, CSS, useTheme } from "@nextui-org/react";
-import React, { useState } from 'react';
+import { Card, Row, Text, Grid, CSS, useTheme } from "@nextui-org/react";
+import React from 'react';
 import Emoji from "../types/stuff_emoji";
-import { Icon } from '@iconify/react';
-import type { IconifyIcon } from '@iconify/types';
-import carrotIcon from '@iconify/icons-noto/carrot';
+// import { Icon } from '@iconify/react';
+// import type { IconifyIcon } from '@iconify/types';
+// import carrotIcon from '@iconify/icons-noto/carrot';
 
 export default function VegetableTag({
   id: key,

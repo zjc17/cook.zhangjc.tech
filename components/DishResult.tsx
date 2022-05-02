@@ -1,4 +1,4 @@
-import { Container, Card, Row, Text, Grid, Spacer, Button, useTheme } from "@nextui-org/react";
+import { Container, Row, Text, useTheme } from "@nextui-org/react";
 import { LoadRecipe, Recipe } from "../components/types/recipe";
 import DishTag from '../components/tags/dish_tag'
 import { ToggleMode } from "./ToggleMode";

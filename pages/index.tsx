@@ -1,4 +1,4 @@
-import { Container, Card, Row, Text, Grid, Spacer, Button, useTheme } from "@nextui-org/react";
+import { Container, Row, Text, Spacer, useTheme } from "@nextui-org/react";
 import IngredientSelection from '../components/IngredientSelection'
 import ResetPrompt from '../components/ResetPrompt'
 import { DishResult } from "../components/DishResult";

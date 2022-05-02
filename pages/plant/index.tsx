@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Container, Card, Row, Text, Grid, Spacer, Button, useTheme, Col } from "@nextui-org/react";
+import { Card, Row, Text, Grid, Spacer, useTheme } from "@nextui-org/react";
 import AboutLayout from "../../components/layouts/AboutLayout";
 import plantJsonData from '../../data/plant.json'
 import { Plant, PlantItem } from "../../components/types/plant";

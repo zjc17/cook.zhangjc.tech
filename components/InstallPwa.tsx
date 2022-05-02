@@ -1,5 +1,5 @@
 import { appState } from "../store/app";
-import { Button, useTheme, CSS, Grid, Container, Row } from "@nextui-org/react";
+import { Button, Row } from "@nextui-org/react";
 
 function install(deferredPrompt: Event | any) {
   // const deferredPrompt = appState(state => state.deferredPrompt)

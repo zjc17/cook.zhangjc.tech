@@ -1,11 +1,6 @@
 import {
   Container,
-  Card,
-  Row,
-  Text,
-  Grid,
   Spacer,
-  Button,
   useTheme,
 } from "@nextui-org/react";
 import { BaseFooter } from "../BaseFooter";
