@@ -13,14 +13,13 @@ export default function App() {
 
   return (
     <Container xl>
-      <Spacer y={1} />
+      <br/>
       <Menu />
-      <Spacer y={1} />
-
+      <br/>
       <ResetPrompt />
-
+      <br/><br/>
       <IngredientSelection />
-      <Spacer y={2} />
+      <br/>
       <DishResult />
 
       <Row justify="center" align="center">

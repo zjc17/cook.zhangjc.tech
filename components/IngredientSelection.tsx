@@ -20,7 +20,6 @@ export default function IngredientSelection() {
 
     return <Container>
         <Grid.Container xl >
-            <Spacer y={2} />
             <Row justify="center" align="center">
                 <Text h3 weight="bold">
                     🥘 先选一下食材
@@ -35,7 +34,7 @@ export default function IngredientSelection() {
                 {vegatables.map((value, index) =>
                     <VegetableTag id={index} key={index} value={value} isSelected={stuffs.has(value)} toogleTag={toogleStuff} />)}
             </Row>
-            <Spacer y={1} />
+            <br/>
             <Row justify="center" align="center">
                 <Text h4 weight="bold" css={{ opacity: 0.8 }}>
                     🥩 肉肉们
@@ -45,7 +44,7 @@ export default function IngredientSelection() {
                 {meats.map((value, index) =>
                     <MeatTag id={index} key={index} value={value} isSelected={stuffs.has(value)} toogleTag={toogleStuff} />)}
             </Row>
-            <Spacer y={1} />
+            <br/>
             <Row justify="center" align="center">
                 <Text h4 weight="bold" css={{ opacity: 0.8 }}>
                     🍚 来点主食？（不选也行）
@@ -56,7 +55,7 @@ export default function IngredientSelection() {
                     <StapleTag id={index} key={index} value={value} isSelected={stuffs.has(value)} toogleTag={toogleStuff} />)}
             </Row>
 
-            <Spacer y={2} />
+            <br/><br/>
             <Row justify="center" align="center">
                 <Text h3 weight="bold" css={{ opacity: 0.8 }}>
                     🍳 再选一下厨具
