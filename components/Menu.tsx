@@ -31,26 +31,26 @@ function ThemeSwitch() {
 export function Menu() {
   const { theme } = useTheme();
   return (
-    <Row wrap="wrap" justify="center" align="center">
-      <Grid css={{ margin: '2px 8px' }}>
+    <Row wrap="wrap" justify="center" align="center" css={{ height: '29px' }}>
+      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
         <Link href="/">
           <Icon icon={homeIcon} width="25" height="25" color={theme.colors.foreground.value} />
         </Link>
       </Grid>
-      <Grid css={{ margin: '2px 8px' }}>
+      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
         <Link href="/plant">
           <Icon icon={plantOutline} width="25" height="25" color={theme.colors.foreground.value} />
         </Link>
       </Grid>
-      <Grid css={{ margin: '2px 8px' }}>
+      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
         <ThemeSwitch />
       </Grid>
-      <Grid css={{ margin: '2px 8px' }}>
+      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
         <Link href="/help">
           <Icon icon={questionCircleOutlined} width="25" height="25" color={theme.colors.foreground.value} />
         </Link>
       </Grid>
-      <Grid css={{ margin: '2px 8px' }}>
+      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
         <Link href="https://github.com/zjc17/cook.zhangjc.tech">
           <a target='_blank'><Icon icon={githubOutline} width="25" height="25" color={theme.colors.foreground.value} /></a>
         </Link>
