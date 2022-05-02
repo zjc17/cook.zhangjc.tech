@@ -2,6 +2,7 @@ import { Container, Card, Row, Text, Grid, Spacer, Button, useTheme } from "@nex
 import { Icon } from '@iconify/react';
 import bilibiliIcon from '@iconify/icons-arcticons/bilibili';
 import roundCopyright from '@iconify/icons-ic/round-copyright';
+import { Icons8License } from "./types/stuff_emoji";
 
 export function BaseFooter() {
     return (
@@ -15,7 +16,7 @@ export function BaseFooter() {
                 <a href="https://www.bilibili.com/blackboard/dynamic/306882">
                     <Text h5 small weight='light' css={{ opacity: '0.9' }}>
                         菜谱视频来源：
-                        <Icon icon={bilibiliIcon} width="20" height="20"/>
+                        <Icon icon={bilibiliIcon} width="20" height="20" />
                         &nbsp;B站
                     </Text>
                 </a>
@@ -24,10 +25,13 @@ export function BaseFooter() {
                 <a href="https://www.zhangjc.tech">
                     <Text h5 small weight='light' css={{ opacity: '0.9' }}>
                         Cook
-                        <Icon icon={roundCopyright}/>
+                        <Icon icon={roundCopyright} />
                         &nbsp;J晨
                     </Text>
                 </a>
+            </Row>
+            <Row css={{ display: 'none' }}>
+                <Icons8License />
             </Row>
         </Container>
     )
