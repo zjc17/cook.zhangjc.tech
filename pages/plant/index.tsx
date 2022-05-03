@@ -5,6 +5,7 @@ import plantJsonData from '../../data/plant.json'
 import { Plant, PlantItem } from "../../components/types/plant";
 import { Icon } from '@iconify/react';
 import plantPot from '@iconify/icons-charm/plant-pot';
+import Head from "next/head";
 
 function PlantCard({ plantItem }: { plantItem: PlantItem }) {
   return (
@@ -28,7 +29,7 @@ export default function PlantComponent() {
   const { theme, type } = useTheme()
   return (
     <AboutLayout menuActivePath="/plant">
-
+      <Head><title>家里种点什么?</title></Head>
       <Row justify="center" align="center" >
         <Icon icon={plantPot} width="44" height="44" color={type === 'light' ? theme.colors.green600.value : theme.colors.green400.value} />
       </Row>

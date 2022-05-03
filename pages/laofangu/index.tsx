@@ -8,6 +8,7 @@ import plantPot from '@iconify/icons-charm/plant-pot';
 import categoryJsonData from '../../data/laofangu_category.json'
 import { LaofanguCategory, LaofanguCategoryItem } from "../../components/types/laofangu";
 import Link from "next/link";
+import Head from "next/head";
 
 export default function Categories() {
   const [data, setData] = useState(categoryJsonData)
@@ -15,6 +16,7 @@ export default function Categories() {
   const { theme, type } = useTheme()
   return (
     <AboutLayout maxWidth="1200px" showBilibiliFooter={false} menuActivePath='/laofangu'>
+      <Head><title>老饭骨合集</title></Head>
       <Row justify="center" align="center">
         <Text h3 weight="medium">老饭骨美食合集</Text>
       </Row>

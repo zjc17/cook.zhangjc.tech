@@ -4,25 +4,25 @@ import { LaofanguDish, LaofanguDishItem } from "../../../components/types/laofan
 import AboutLayout from "../../../components/layouts/AboutLayout";
 import { Row, Spacer, Grid, Card } from "@nextui-org/react";
 import { useTheme } from "@nextui-org/react";
+import Head from "next/head";
 
 export default function Category({ category, dishes }: StaticProps) {
   const { theme } = useTheme()
   return (
-    <>
-      <AboutLayout showBilibiliFooter={false}>
-        <Row justify="center" align="center">
-          <Text h3 weight="medium">老饭骨美食合集-{category.name}</Text>
+    <AboutLayout showBilibiliFooter={false}>
+      <Head><title>老饭骨合集-{category.name}</title></Head>
+      <Row justify="center" align="center">
+        <Text h3 weight="medium">老饭骨美食合集-{category.name}</Text>
+      </Row>
+      <Spacer style={{ height: theme.space[2].value }} />
+      <Grid.Container xl css={{ backgroundColor: theme.colors.accents1.value, padding: '8px' }}>
+        <Row wrap="wrap" justify="center" align="center" >
+          {dishes.map((value, index) => (
+            <TraditionalCard id={index} key={index} LaofanguDishItem={value} />
+          ))}
         </Row>
-        <Spacer style={{ height: theme.space[2].value }} />
-        <Grid.Container xl css={{ backgroundColor: theme.colors.accents1.value, padding: '8px' }}>
-          <Row wrap="wrap" justify="center" align="center" >
-            {dishes.map((value, index) => (
-              <TraditionalCard id={index} key={index} LaofanguDishItem={value} />
-            ))}
-          </Row>
-        </Grid.Container>
-      </AboutLayout>
-    </>
+      </Grid.Container>
+    </AboutLayout>
   )
 }
 
