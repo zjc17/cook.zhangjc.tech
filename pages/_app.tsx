@@ -33,6 +33,7 @@ export default function App({ Component, pageProps }: AppProps) {
     >
       <NextUIProvider>
         <GoogleAnalytics />
+        <BaiduTrace />
         {/* <GoogleAdsTrace /> */}
         <Component {...pageProps} />
       </NextUIProvider>
@@ -68,6 +69,25 @@ function GoogleAdsTrace() {
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ADS}');
+        `}
+      </Script>
+    </>
+  )
+}
+
+function BaiduTrace() {
+  return (
+    <>
+      {/* <!-- Global site tag (gtag.js) - Google Ads --> */}
+      <Script strategy="lazyOnload">
+        {`
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?${process.env.NEXT_PUBLIC_BAIDU_TRACE}";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
         `}
       </Script>
     </>

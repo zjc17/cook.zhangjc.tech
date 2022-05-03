@@ -4,6 +4,7 @@
 /public/workbox*
 /public/worker-development.js
 /public/sitemap*
+/public/worker-*
 # dependencies
 /node_modules
 /.pnp
