@@ -82,17 +82,17 @@ export default function Emoji({ name, color }: { name: string, color?: string })
 
   if (icon.iconifyIcon) {
     return (
-      <Icon icon={icon.iconifyIcon} width={size} height={size} color={color} />
+      <Icon icon={icon.iconifyIcon} width={size} height={size} color={color} style={{ width: size, height: size }} />
     )
   } else
     if (icon.base64) {
       return (
-        <Image src={icon.base64} width={size} height={size} ></Image>
+        <Image src={icon.base64} width={size} height={size} style={{ width: size, height: size }} ></Image>
       )
     } else
       if (icon.icon8Cdn) {
         return (
-          <Image src={icon.icon8Cdn} width={size} height={size} ></Image>
+          <Image src={icon.icon8Cdn} width={size} height={size} style={{ width: size, height: size }} ></Image>
         )
       }
   return <></>

@@ -50,16 +50,16 @@ function PWA() {
 
       <meta name='twitter:card' content='summary' />
       {/* <meta name='twitter:url' content='https://yourdomain.com' /> */}
-      <meta name='twitter:title' content='J晨' />
+      <meta name='twitter:title' content='居家食用手册' />
       <meta name='twitter:description' content='' />
       {/* <meta name='twitter:image' content='https://yourdomain.com/icons/android-chrome-192x192.png' /> */}
       <meta name='twitter:creator' content='@JiachenZhang5' />
       <meta property='og:type' content='website' />
-      <meta property='og:title' content='J晨' />
+      <meta property='og:title' content='居家食用手册' />
       <meta property='og:description' content='' />
-      <meta property='og:site_name' content='The Daily Awesome' />
-      <meta property='og:url' content='https://www.zhangjc.com' />
-      <meta property='og:image' content='https://www.zhangjc.tech/icons/apple-touch-icon.png' />
+      <meta property='og:site_name' content='居家食用手册' />
+      <meta property='og:url' content='https://cook.zhangjc.tech' />
+      <meta property='og:image' content='https://cook.zhangjc.tech/icons/icon-512x512.png' />
 
       <meta name='apple-mobile-web-app-status-bar-style' content='default' />
       <meta name="apple-mobile-web-app-capable" content="yes" />
