@@ -1,5 +1,4 @@
-import { Row, Grid } from "@nextui-org/react";
-import Link from "next/link"
+import { Row, Grid, Tooltip, Link} from "@nextui-org/react";
 import { useTheme as useNextTheme } from 'next-themes'
 import { useTheme } from '@nextui-org/react'
 
@@ -29,25 +28,31 @@ function ThemeSwitch() {
   }
 }
 
+
+function NavigateItem(key, {content, href, icon}) {
+  const {theme} = useTheme();
+  return (
+      <Grid css={{margin: '2px 8px', width: '25px', height: '25px', cursor: 'pointer'}} key={key}>
+        <Tooltip content={content} placement="bottom">
+          <Link href={href}>
+            <Icon icon={icon} width="25" height="25" color={theme.colors.foreground.value}/>
+          </Link>
+        </Tooltip>
+      </Grid>
+  )
+}
 export function Menu() {
   const { theme } = useTheme();
+
+  const navigateItems = [
+    {content: "菜谱", href: "/", icon: homeIcon},
+    {content: "种菜", href: "/plant", icon: plantOutline},
+    {content: "老饭骨", href: "/laofangu", icon: chefHat}
+  ].map((item, index) => NavigateItem(index, item));
+
   return (
     <Row wrap="wrap" justify="center" align="center" style={{ height: '29px' }}>
-      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
-        <Link href="/">
-          <Icon icon={homeIcon} width="25" height="25" color={theme.colors.foreground.value} />
-        </Link>
-      </Grid>
-      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
-        <Link href="/plant">
-          <Icon icon={plantOutline} width="25" height="25" color={theme.colors.foreground.value} />
-        </Link>
-      </Grid>
-      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
-        <Link href="/laofangu">
-          <Icon icon={chefHat} width="25" height="25" color={theme.colors.foreground.value} />
-        </Link>
-      </Grid>
+      {navigateItems}
       <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
         <ThemeSwitch />
       </Grid>
