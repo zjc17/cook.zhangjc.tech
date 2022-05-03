@@ -13,7 +13,7 @@ export default function App() {
   return (
     <Container xl>
       <Spacer style={{height: theme.space[1].value}} />
-      <Menu />
+      <Menu activePath="/"/>
       <Spacer style={{height: theme.space[1].value}} />
       <ResetPrompt />
       <Spacer style={{height: theme.space[2].value}} />

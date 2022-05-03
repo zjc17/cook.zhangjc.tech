@@ -14,7 +14,7 @@ export default function Categories() {
   const laofanguCategory = data as LaofanguCategory
   const { theme, type } = useTheme()
   return (
-    <AboutLayout maxWidth="1200px" showBilibiliFooter={false}>
+    <AboutLayout maxWidth="1200px" showBilibiliFooter={false} menuActivePath='/laofangu'>
       <Row justify="center" align="center">
         <Text h3 weight="medium">老饭骨美食合集</Text>
       </Row>

@@ -27,7 +27,7 @@ export default function PlantComponent() {
   const plants = plantData as Plant
   const { theme, type } = useTheme()
   return (
-    <AboutLayout>
+    <AboutLayout menuActivePath="/plant">
 
       <Row justify="center" align="center" >
         <Icon icon={plantPot} width="44" height="44" color={type === 'light' ? theme.colors.green600.value : theme.colors.green400.value} />

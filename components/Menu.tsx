@@ -1,4 +1,4 @@
-import { Row, Grid } from "@nextui-org/react";
+import { Row, Grid, CSS } from "@nextui-org/react";
 import Link from "next/link"
 import { useTheme as useNextTheme } from 'next-themes'
 import { useTheme } from '@nextui-org/react'
@@ -29,34 +29,43 @@ function ThemeSwitch() {
   }
 }
 
-export function Menu() {
+export function Menu({ activePath }: { activePath?: string }) {
   const { theme } = useTheme();
+  const activeStyle: CSS = {
+    margin: '2px 8px', width: '25px', height: '30px',
+    paddingBottom: '5px',
+    borderBottom: `2.5px solid ${theme.colors.foreground.value}`,
+  }
+  const inactiveStyle: CSS = {
+    margin: '2px 8px', width: '25px', height: '30px',
+    paddingBottom: '5px',
+  }
   return (
-    <Row wrap="wrap" justify="center" align="center" style={{ height: '29px' }}>
-      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
+    <Row wrap="wrap" justify="center" align="center" style={{ height: '34px' }}>
+      <Grid css={activePath == '/' ? activeStyle : inactiveStyle}>
         <Link href="/">
           <Icon icon={homeIcon} width="25" height="25" color={theme.colors.foreground.value} />
         </Link>
       </Grid>
-      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
+      <Grid css={activePath == '/plant' ? activeStyle : inactiveStyle}>
         <Link href="/plant">
           <Icon icon={plantOutline} width="25" height="25" color={theme.colors.foreground.value} />
         </Link>
       </Grid>
-      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
+      <Grid css={activePath == '/laofangu' ? activeStyle : inactiveStyle}>
         <Link href="/laofangu">
           <Icon icon={chefHat} width="25" height="25" color={theme.colors.foreground.value} />
         </Link>
       </Grid>
-      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
+      <Grid css={inactiveStyle}>
         <ThemeSwitch />
       </Grid>
-      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
+      <Grid css={activePath == '/help' ? activeStyle : inactiveStyle}>
         <Link href="/help">
           <Icon icon={questionCircleOutlined} width="25" height="25" color={theme.colors.foreground.value} />
         </Link>
       </Grid>
-      <Grid css={{ margin: '2px 8px', width: '25px', height: '25px' }}>
+      <Grid css={inactiveStyle}>
         <Link href="https://github.com/zjc17/cook.zhangjc.tech">
           <a target='_blank'><Icon icon={githubOutline} width="25" height="25" color={theme.colors.foreground.value} /></a>
         </Link>

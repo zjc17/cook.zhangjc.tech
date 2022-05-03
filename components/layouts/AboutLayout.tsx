@@ -10,16 +10,18 @@ export default function AboutLayout({
   children,
   maxWidth = '900px',
   showBilibiliFooter = true,
+  menuActivePath,
 }: {
   children: React.ReactNode
   maxWidth?: string
   showBilibiliFooter?: boolean
+  menuActivePath?: string
 }) {
   const { theme } = useTheme();
   return (
     <Container xl>
       <Spacer y={1} />
-      <Menu />
+      <Menu activePath={menuActivePath}/>
       <Spacer y={1} />
       <Container lg style={{ maxWidth: maxWidth }}>
         <main>{children}</main>

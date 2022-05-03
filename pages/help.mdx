@@ -62,7 +62,7 @@ export default function Layout({ children }) {
         // li: props => <li {...props} style={{ color: "rebeccapurple" }} />
       }}
     >
-      <AboutLayout meta={meta}>{children}</AboutLayout>
+      <AboutLayout meta={meta} menuActivePath="/help">{children}</AboutLayout>
     </MDXProvider>
   )
 }
