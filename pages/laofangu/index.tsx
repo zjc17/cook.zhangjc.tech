@@ -27,7 +27,7 @@ function TraditionalCard({ LaofanguDishItem }: { LaofanguDishItem: LaofanguDishI
 function CategoryCard({ categoryItem }: { categoryItem: LaofanguCategoryItem }) {
   const { theme, type } = useTheme()
   return (
-    <Grid key={categoryItem.slug} style={{ padding: '4px 8px' }} css={{ w: '30%', p: 0, minWidth: 250 }}>
+    <Grid key={categoryItem.slug} style={{ padding: '4px 8px' }} css={{ width: '25%', p: 0, minWidth: 280, aspectRatio: 1.5 }}>
       <Card cover >
         <Card.Body >
           <Card.Image
@@ -57,7 +57,7 @@ export default function Categories() {
   const laofanguCategory = data as LaofanguCategory
   const { theme, type } = useTheme()
   return (
-    <AboutLayout>
+    <AboutLayout maxWidth="1200px" showBilibiliFooter={false}>
       {/* <Row justify="center" align="center" >
         <Icon icon={plantPot} width="44" height="44" color={type === 'light' ? theme.colors.green600.value : theme.colors.green400.value} />
       </Row> */}
@@ -83,7 +83,7 @@ function Traditional() {
   const laofanguDishes = data as LaofanguDish
   const { theme, type } = useTheme()
   return (
-    <AboutLayout>
+    <AboutLayout showBilibiliFooter={false}>
       <Row justify="center" align="center">
         <Text h5 weight="normal">老饭骨美食合集</Text>
       </Row>

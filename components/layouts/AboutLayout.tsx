@@ -8,8 +8,12 @@ import { Menu } from "../Menu";
 
 export default function AboutLayout({
   children,
+  maxWidth = '900px',
+  showBilibiliFooter = true,
 }: {
-  children: React.ReactNode;
+  children: React.ReactNode
+  maxWidth?: string
+  showBilibiliFooter?: boolean
 }) {
   const { theme } = useTheme();
   return (
@@ -17,11 +21,11 @@ export default function AboutLayout({
       <Spacer y={1} />
       <Menu />
       <Spacer y={1} />
-      <Container lg css={{ maxWidth: "900px" }}>
+      <Container lg style={{ maxWidth: maxWidth }}>
         <main>{children}</main>
       </Container>
       <Spacer y={1} />
-      <BaseFooter />
+      <BaseFooter showBilibili={showBilibiliFooter} />
     </Container>
   );
 }
