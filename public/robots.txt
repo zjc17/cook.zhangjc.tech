@@ -2,8 +2,5 @@
 User-agent: *
 Allow: /
 
-# Host
-Host: https://cook.zhangjc.tech
-
 # Sitemaps
 Sitemap: https://cook.zhangjc.tech/sitemap.xml
