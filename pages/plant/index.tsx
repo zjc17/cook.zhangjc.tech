@@ -10,7 +10,7 @@ import Head from "next/head";
 function PlantCard({ plantItem }: { plantItem: PlantItem }) {
   return (
     <Grid css={{ padding: '4px 8px' }}>
-      <a href={plantItem.link} target='_blank'>
+      <a href={plantItem.link} target='_blank' rel="noreferrer" >
         <Card>
           <Card.Body css={{ padding: '4px 8px' }}>
             <Text h6 weight='normal' >
@@ -49,7 +49,7 @@ export default function PlantComponent() {
       <Grid.Container xl> */}
         <Row wrap="wrap" justify="center" align="center" >
           {plants.map((value, index) => (
-            <PlantCard plantItem={value} />
+            <PlantCard key={index} plantItem={value} />
           ))}
         </Row>
       </Grid.Container>

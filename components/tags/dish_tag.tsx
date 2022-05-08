@@ -20,13 +20,13 @@ export default function DishTag({
     <Grid key={key} css={{ margin: '2px' }} >
       <Card clickable bordered shadow={false} animated={false}>
         <Card.Body css={{ padding: '2px 8px', backgroundColor: style.backgroundColor }}>
-          <a href={recipe.link} target='_blank'>
+          <a href={recipe.link} target='_blank' rel="noreferrer">
             <Row wrap="wrap" justify="flex-start">
-              {recipe.stuffs.slice(0, 3).map((value, index) => <Emoji name={value} />)}
+              {recipe.stuffs.slice(0, 3).map((value, index) => <Emoji name={value} key={index} />)}
               <Text h6 weight={'normal'} css={{ color: style.color, padding: '0px 4px' }} >
                 {recipe.name}
               </Text>
-              {recipe.tools.map((value, index) => <Emoji name={value} color={theme.colors.foreground.value} />)}
+              {recipe.tools.map((value, index) => <Emoji key={index} name={value} color={theme.colors.foreground.value} />)}
             </Row>
           </a>
         </Card.Body>

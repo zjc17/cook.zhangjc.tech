@@ -6,7 +6,7 @@ import { useEffect } from "react";
  * https://web.dev/customize-install/#detect-install
  * @returns
  */
-export function installPrompt() {
+export function InstallPrompt() {
   const setDeferedPrompt = appState(state => state.setDeferedPrompt)
 
   // detect whether client 

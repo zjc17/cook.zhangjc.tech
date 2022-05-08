@@ -54,7 +54,7 @@ function Result() {
         return (
             <Row wrap="wrap" justify="center" align="center" >
                 {displayRecipes.map((value, index) =>
-                    <DishTag id={index} recipe={value} />)}
+                    <DishTag key={index} id={index} recipe={value} />)}
             </Row>
         )
     }

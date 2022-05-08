@@ -87,12 +87,12 @@ export default function Emoji({ name, color }: { name: string, color?: string })
   } else
     if (icon.base64) {
       return (
-        <Image src={icon.base64} width={size} height={size} style={{ width: size, height: size }} ></Image>
+        <Image src={icon.base64} width={size} height={size} style={{ width: size, height: size }} alt="🥬" ></Image>
       )
     } else
       if (icon.icon8Cdn) {
         return (
-          <Image src={icon.icon8Cdn} width={size} height={size} style={{ width: size, height: size }} ></Image>
+          <Image src={icon.icon8Cdn} width={size} height={size} style={{ width: size, height: size }} alt="🥬" ></Image>
         )
       }
   return <></>
@@ -101,19 +101,19 @@ export default function Emoji({ name, color }: { name: string, color?: string })
 export function Icons8License() {
   return (
     <div>
-      <a target="_blank" href="https://icons8.com/icon/tUEFyoPQ51Gv/radish">Radish icon by Icons8</a>
-      <a target="_blank" href="https://icons8.com/icon/EZU7nFBNbRGC/zucchini">Zucchini icon by Icons8</a>
-      <a target="_blank" href="https://icons8.com/icon/oRJRYo6HqgAS/celery">Celery icon by Icons8</a>
-      <a target="_blank" href="https://icons8.com/icon/OO7zIB6QnfnL/lettuce">Lettuce icon by Icons8</a>
-      <a target="_blank" href="https://icons8.com/icon/pNuT91t2HxKn/tofu">Tofu icon by Icons8</a>
-      <a target="_blank" href="https://icons8.com/icon/aqavsazggPNR/cabbage">Cabbage icon by Icons8</a>
-      <a target="_blank" href="https://icons8.com/icon/KTonns6J6oBL/cabbage">Cabbage icon by Icons8</a>
-      <a target="_blank" href="https://icons8.com/icon/WK6FWDECipNs/meat">Meat icon by Icons8</a>
-      <a target="_blank" href="https://icons8.com/icon/40GetaUyssNb/sausage">Sausage icon by Icons8</a>
-      <a target="_blank" href="https://icons8.com/icon/WMgykqM067sK/cuts-of-pork">Cuts Of Pork icon by Icons8</a>
-      <a target="_blank" href="https://icons8.com/icon/38826/beef">Beef icon by Icons8</a>
-      <a target="_blank" href="https://icons8.com/icon/5nhiG01WkyRF/noodles">Noodles icon by Icons8</a>
-      <a target="_blank" href="https://icons8.com/icon/QUmzfo3b2pge/air-fryer">Air Fryer icon by Icons8</a>
+      <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/tUEFyoPQ51Gv/radish">Radish icon by Icons8</a>
+      <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/EZU7nFBNbRGC/zucchini">Zucchini icon by Icons8</a>
+      <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/oRJRYo6HqgAS/celery">Celery icon by Icons8</a>
+      <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/OO7zIB6QnfnL/lettuce">Lettuce icon by Icons8</a>
+      <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/pNuT91t2HxKn/tofu">Tofu icon by Icons8</a>
+      <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/aqavsazggPNR/cabbage">Cabbage icon by Icons8</a>
+      <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/KTonns6J6oBL/cabbage">Cabbage icon by Icons8</a>
+      <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/WK6FWDECipNs/meat">Meat icon by Icons8</a>
+      <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/40GetaUyssNb/sausage">Sausage icon by Icons8</a>
+      <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/WMgykqM067sK/cuts-of-pork">Cuts Of Pork icon by Icons8</a>
+      <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/38826/beef">Beef icon by Icons8</a>
+      <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/5nhiG01WkyRF/noodles">Noodles icon by Icons8</a>
+      <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/QUmzfo3b2pge/air-fryer">Air Fryer icon by Icons8</a>
     </div>
   )
 }

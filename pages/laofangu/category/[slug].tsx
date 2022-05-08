@@ -75,7 +75,7 @@ interface StaticProps {
 function TraditionalCard({ id: key, LaofanguDishItem }: { id: string | number, LaofanguDishItem: LaofanguDishItem }) {
   return (
     <Grid key={key} style={{ padding: '4px 8px' }}>
-      <a href={LaofanguDishItem.link} target='_blank'>
+      <a href={LaofanguDishItem.link} target='_blank' rel="noreferrer" >
         <Card clickable>
           <Card.Body style={{ padding: '4px 8px' }}>
             <Text h6 weight='normal' >

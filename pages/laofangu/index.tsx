@@ -31,7 +31,7 @@ export default function Categories() {
       <Grid.Container xl css={{ backgroundColor: theme.colors.accents1.value, padding: '8px' }}>
         <Row wrap="wrap" justify="center" align="center" >
           {laofanguCategory.map((value, index) => (
-            <CategoryCard categoryItem={value} />
+            <CategoryCard key={index} categoryItem={value} />
           ))}
         </Row>
       </Grid.Container>

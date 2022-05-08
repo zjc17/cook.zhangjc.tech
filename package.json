@@ -7,7 +7,8 @@
     "export": "next export",
     "prestart": "npm run export",
     "start": "next start",
-    "postbuild": "next-sitemap"
+    "postbuild": "next-sitemap",
+    "lint": "next lint"
   },
   "dependencies": {
     "@mdx-js/loader": "^2.1.1",
@@ -47,6 +48,8 @@
     "@types/node": "^16.11.32",
     "@types/react": "^17.0.14",
     "autoprefixer": "^10.4.5",
+    "eslint": "8.15.0",
+    "eslint-config-next": "12.1.6",
     "next-pwa": "^5.5.2",
     "next-sitemap": "^2.5.20",
     "next-themes": "^0.1.1",

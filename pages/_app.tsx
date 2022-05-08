@@ -3,7 +3,7 @@ import { AppProps } from 'next/app'
 import Script from 'next/script';
 import { createTheme, NextUIProvider } from "@nextui-org/react"
 import { ThemeProvider as NextThemesProvider } from 'next-themes';
-import { installPrompt } from '../lib/pwa'
+import { InstallPrompt } from '../lib/pwa'
 
 
 const lightTheme = createTheme({
@@ -21,7 +21,7 @@ const darkTheme = createTheme({
 })
 
 export default function App({ Component, pageProps }: AppProps) {
-  installPrompt()
+  InstallPrompt()
   return (
     <NextThemesProvider
       defaultTheme="system"
@@ -46,7 +46,7 @@ function GoogleAnalytics() {
     <>
       {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
       <Script strategy="lazyOnload" src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}></Script>
-      <Script strategy="lazyOnload">
+      <Script id='ga-script-1' strategy="lazyOnload">
         {`
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -63,7 +63,7 @@ function GoogleAdsTrace() {
     <>
       {/* <!-- Global site tag (gtag.js) - Google Ads --> */}
       <Script strategy="lazyOnload" src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ADS}`}></Script>
-      <Script strategy="lazyOnload">
+      <Script id='google-ads-script-1' strategy="lazyOnload">
         {`
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -79,7 +79,7 @@ function BaiduTrace() {
   return (
     <>
       {/* <!-- Global site tag (gtag.js) - Google Ads --> */}
-      <Script strategy="lazyOnload">
+      <Script id='baidu-script-1' strategy="lazyOnload">
         {`
         var _hmt = _hmt || [];
         (function() {
