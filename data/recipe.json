@@ -14,7 +14,7 @@
         "link": "https://www.bilibili.com/video/BV1T54y1U7Cu",
         "difficulty": "简单",
         "tags": "好吃",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -23,7 +23,7 @@
         "link": "https://www.bilibili.com/video/BV14b411q7rM",
         "difficulty": "简单",
         "tags": "筋道",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -32,7 +32,7 @@
         "link": "https://www.bilibili.com/video/BV1Bv411C7X3",
         "difficulty": "简单",
         "tags": "懒人",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -41,7 +41,7 @@
         "link": "https://www.bilibili.com/video/BV1dj411f7sR",
         "difficulty": "简单",
         "tags": "懒人",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -50,7 +50,7 @@
         "link": "https://www.bilibili.com/video/BV1Bv411C7X3",
         "difficulty": "简单",
         "tags": "懒人",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -59,7 +59,7 @@
         "link": "https://www.bilibili.com/video/BV1Bv411C7X3",
         "difficulty": "简单",
         "tags": "懒人",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -68,7 +68,7 @@
         "link": "https://www.bilibili.com/video/BV1Bv411C7X3",
         "difficulty": "简单",
         "tags": "懒人",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -86,25 +86,25 @@
         "link": "https://www.bilibili.com/video/BV1Ab4y1p7dw",
         "difficulty": "简单",
         "tags": "下饭",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "电饭煲版红烧肉",
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV1SW411t7AX",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "电饭煲版可乐鸡翅",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV16J411U79k",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -113,7 +113,7 @@
         "link": "https://www.bilibili.com/video/BV1H7411V7Pz",
         "difficulty": "简单",
         "tags": "香软",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -122,7 +122,7 @@
         "link": "https://www.bilibili.com/video/BV1ZA411E7KT",
         "difficulty": "简单",
         "tags": "小吃",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -131,7 +131,7 @@
         "link": "https://www.bilibili.com/video/BV1aM4y1L7QR",
         "difficulty": "简单",
         "tags": "小吃",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -140,16 +140,16 @@
         "link": "https://www.bilibili.com/video/BV16Q4y1m7nU",
         "difficulty": "简单",
         "tags": "杂烩",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "电饭煲版罗宋汤",
         "stuff": "牛肉,番茄,土豆,包菜,香肠",
         "link": "https://www.bilibili.com/video/BV16Q4y1m7nU",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "杂烩",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -158,7 +158,7 @@
         "link": "https://www.bilibili.com/video/BV1dj411f7sR",
         "difficulty": "简单",
         "tags": "杂烩",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -167,34 +167,34 @@
         "link": "https://www.bilibili.com/video/BV18T4y1c7s1",
         "difficulty": "普通",
         "tags": "杂烩",
-        "methods": null,
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "电饭煲版茶叶蛋",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV12W411R7LA",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "电饭煲版番茄炖排骨",
         "stuff": "番茄,猪肉,米",
         "link": "https://www.bilibili.com/video/BV1av411r7mL",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "电饭煲版番茄牛腩",
         "stuff": "番茄,牛肉,米",
         "link": "https://www.bilibili.com/video/BV18i4y1g7sp",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -202,26 +202,26 @@
         "stuff": "方便面,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1kW411r7Py",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "电饭煲版红烧肉",
         "stuff": "猪肉,米",
         "link": "https://www.bilibili.com/video/BV1SW411t7AX",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "电饭煲版胡萝卜腊肠饭",
         "stuff": "胡萝卜,腊肠,米",
         "link": "https://www.bilibili.com/video/BV1tW411b7LS",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -229,7 +229,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1UK4y1Y7aC",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "卤",
         "tools": "电饭煲"
     },
@@ -238,8 +238,8 @@
         "stuff": "鸡肉,土豆",
         "link": "https://www.bilibili.com/video/BV1tR4y1g7kv",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -247,8 +247,8 @@
         "stuff": "猪肉,米",
         "link": "https://www.bilibili.com/video/BV1ci4y1j7Rz",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -256,17 +256,17 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1A4411k7iz",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "电饭煲版牛腩萝卜清汤",
         "stuff": "牛肉,白萝卜",
         "link": "https://www.bilibili.com/video/BV16Q4y1m7nU",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -274,8 +274,8 @@
         "stuff": "茄子,猪肉,面食",
         "link": "https://www.bilibili.com/video/BV1ib41137ig",
         "difficulty": "复杂",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -283,26 +283,26 @@
         "stuff": "猪肉,鸡蛋",
         "link": "https://www.bilibili.com/video/BV13W411a7Ax",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "电饭煲版上海菜饭",
         "stuff": "猪肉,腊肠,米,包菜,莴笋",
         "link": "https://www.bilibili.com/video/BV1mW411x7F7",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "电饭煲版蒜蓉排骨",
         "stuff": "猪肉,米,",
         "link": "https://www.bilibili.com/video/BV1Dv411T7bD",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -310,8 +310,8 @@
         "stuff": "土豆,香肠,米",
         "link": "https://www.bilibili.com/video/BV1Kv411q7BM",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -319,8 +319,8 @@
         "stuff": "鸡蛋,面包",
         "link": "https://www.bilibili.com/video/BV1vY41137F1",
         "difficulty": "困难",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -328,17 +328,17 @@
         "stuff": "猪肉,米",
         "link": "https://www.bilibili.com/video/BV127411W75D",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "电饭煲温泉蛋",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1EJ411Y7fU",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
@@ -346,33 +346,33 @@
         "stuff": "牛肉,鸡蛋,米",
         "link": "https://www.bilibili.com/video/BV1aA411q7b9",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "电饭锅酱牛肉",
         "stuff": "牛肉,米饭",
         "link": "https://www.bilibili.com/video/BV1sv411C7qW",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "电饭煲"
     },
     {
         "name": "烤箱版M记同款薯条",
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1nA411P7aX",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "同款",
-        "methods": null,
+        "methods": "",
         "tools": "烤箱"
     },
     {
         "name": "空心小薯片",
         "stuff": "土豆,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1N5411D79P",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "零食",
         "methods": "烘",
         "tools": "烤箱"
@@ -390,45 +390,45 @@
         "name": "烤箱版M记同款麦乐鸡",
         "stuff": "土豆,鸡肉,鸡蛋",
         "link": "https://www.bilibili.com/video/BV19v411J7MG",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "同款",
-        "methods": null,
+        "methods": "",
         "tools": "烤箱"
     },
     {
         "name": "烤箱版KFC同款香辣鸡翅",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1jA4y197RR",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "同款",
-        "methods": null,
+        "methods": "",
         "tools": "烤箱"
     },
     {
         "name": "烤箱版M记同款薯饼",
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1qy4y1y7Mn",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "同款",
-        "methods": null,
+        "methods": "",
         "tools": "烤箱"
     },
     {
         "name": "烤箱烧烤",
         "stuff": "土豆,胡萝卜,花菜,西葫芦,芹菜,洋葱,莴笋,菌菇,茄子,包菜,午餐肉,香肠,鸡肉,猪肉,虾,牛肉,鸡肉",
         "link": "https://www.bilibili.com/video/BV17P4y1W7Ze",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "杂烩",
-        "methods": null,
+        "methods": "",
         "tools": "烤箱"
     },
     {
         "name": "烤箱迎客菜",
         "stuff": "牛肉,茄子,鸡肉,鸡蛋,豆腐,菌菇,番茄",
         "link": "https://www.bilibili.com/video/BV1ug4y1B7CR",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "杂烩",
-        "methods": null,
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -436,7 +436,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1ju411X7mx",
         "difficulty": "复杂",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -445,7 +445,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1Zr4y1B7UQ",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -454,7 +454,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV1DV411x7SH",
         "difficulty": "复杂",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -463,7 +463,7 @@
         "stuff": "土豆,鸡肉",
         "link": "https://www.bilibili.com/video/BV1wv411h7d6",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -472,7 +472,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV17u411i7jF",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -481,8 +481,8 @@
         "stuff": "面包",
         "link": "https://www.bilibili.com/video/BV1Kc411h7eJ",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -490,8 +490,8 @@
         "stuff": "鸡蛋,面包",
         "link": "https://www.bilibili.com/video/BV1ga411h7cw",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -499,7 +499,7 @@
         "stuff": "土豆,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Xy4y1L7ok",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "烘",
         "tools": "烤箱"
     },
@@ -507,8 +507,8 @@
         "name": "烤布丁",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "烘",
         "tools": "烤箱"
     },
@@ -517,8 +517,8 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1ju411X7mx",
         "difficulty": "复杂",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -526,7 +526,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1Mb4y1Q7DU",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -535,7 +535,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV1VS4y137dE",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -543,9 +543,9 @@
         "name": "烤箱版黑椒牛肉土豆焖饭",
         "stuff": "牛肉,土豆,胡萝卜,米,鸡蛋",
         "link": "https://www.bilibili.com/video/BV14x411D7uN",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -553,7 +553,7 @@
         "stuff": "猪肉,花菜",
         "link": "https://www.bilibili.com/video/BV17P4y1W7Ze",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -562,8 +562,8 @@
         "stuff": "花菜",
         "link": "https://www.bilibili.com/video/BV1Nv411Y7kV",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -571,8 +571,8 @@
         "stuff": "西葫芦",
         "link": "https://www.bilibili.com/video/BV1Nv411Y7kV",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -580,8 +580,8 @@
         "stuff": "洋葱",
         "link": "https://www.bilibili.com/video/BV1Nv411Y7kV",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -589,8 +589,8 @@
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1CR4y1t7CM",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -598,7 +598,7 @@
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1mR4y1E7VH",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -607,7 +607,7 @@
         "stuff": "鸡肉,番茄,土豆",
         "link": "https://www.bilibili.com/video/BV1Ra4y1x7Ua",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -616,8 +616,8 @@
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1nA411P7aX",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -625,7 +625,7 @@
         "stuff": "鸡肉,土豆",
         "link": "https://www.bilibili.com/video/BV12W411A7w8",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -634,8 +634,8 @@
         "stuff": "茄子",
         "link": "https://www.bilibili.com/video/BV1Ff4y1P7ng",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -643,7 +643,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1et411R7kG",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -652,7 +652,7 @@
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Vp4y167P4",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -660,9 +660,9 @@
         "name": "烤箱腊肠焖饭",
         "stuff": "腊肠,花菜,米",
         "link": "https://www.bilibili.com/video/BV14x411D7uN",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -670,7 +670,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1WW411S72C",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -679,7 +679,7 @@
         "stuff": "面包",
         "link": "https://www.bilibili.com/video/BV1wJ411E7YS",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -688,7 +688,7 @@
         "stuff": "牛肉",
         "link": "https://www.bilibili.com/video/BV1L64y1r7bk",
         "difficulty": "复杂",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -697,7 +697,7 @@
         "stuff": "茄子",
         "link": "https://www.bilibili.com/video/BV165411N7fQ",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -706,7 +706,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1HE411L7T2",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -715,7 +715,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV12F411v74c",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -724,8 +724,8 @@
         "stuff": "面包,鸡蛋,猪肉",
         "link": "https://www.bilibili.com/video/BV1aZ4y1R7SL",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -733,7 +733,7 @@
         "stuff": "牛肉，土豆",
         "link": "https://www.bilibili.com/video/BV1754y1E7Mj",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -742,8 +742,8 @@
         "stuff": "面包,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1WQ4y1q7iz",
         "difficulty": "困难",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -751,7 +751,7 @@
         "stuff": "鸡蛋，面包",
         "link": "https://www.bilibili.com/video/BV1KF411Y7WP",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -760,7 +760,7 @@
         "stuff": "土豆,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1fY41187Xo",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "烘",
         "tools": "烤箱"
     },
@@ -769,7 +769,7 @@
         "stuff": "包菜",
         "link": "https://www.bilibili.com/video/BV1S44y1P7Qp",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -778,8 +778,8 @@
         "stuff": "面包,虾",
         "link": "https://www.bilibili.com/video/BV1gB4y1c7GY",
         "difficulty": "困难",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -787,8 +787,8 @@
         "stuff": "土豆,面包,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1H4411572T",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -796,7 +796,7 @@
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1fY41187Xo",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烘",
         "tools": "烤箱"
     },
@@ -805,7 +805,7 @@
         "stuff": "土豆,香肠",
         "link": "https://www.bilibili.com/video/BV1DL4y1j7Nu",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "烘",
         "tools": "烤箱"
     },
@@ -814,8 +814,8 @@
         "stuff": "面包",
         "link": "https://www.bilibili.com/video/BV1Xg4y187BQ",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱"
     },
     {
@@ -823,7 +823,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV174411Z7ar",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烤",
         "tools": "烤箱"
     },
@@ -832,8 +832,8 @@
         "stuff": "鸡蛋,面包",
         "link": "https://www.bilibili.com/video/BV1SJ411L7dG",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "烤箱,电饭煲"
     },
     {
@@ -876,27 +876,27 @@
         "name": "空气炸锅版M记同款薯条",
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1tq4y1j72x",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "同款",
-        "methods": null,
+        "methods": "",
         "tools": "空气炸锅"
     },
     {
         "name": "空气炸锅版M记同款薯饼",
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1Cb4y167zK",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "同款",
-        "methods": null,
+        "methods": "",
         "tools": "空气炸锅"
     },
     {
         "name": "空气炸锅版KFC同款奥尔良烤翅",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1EQ4y1a7C9",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "同款",
-        "methods": null,
+        "methods": "",
         "tools": "空气炸锅"
     },
     {
@@ -912,9 +912,9 @@
         "name": "空气炸锅版可乐鸡翅",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1eT4y1S7Jn",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "空气炸锅"
     },
     {
@@ -940,7 +940,7 @@
         "stuff": "包菜",
         "link": "https://www.bilibili.com/video/BV1DL4y137CD",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -949,7 +949,7 @@
         "stuff": "面食",
         "link": "https://www.bilibili.com/video/BV1DL4y137CD",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -958,7 +958,7 @@
         "stuff": "香肠",
         "link": "https://www.bilibili.com/video/BV1DL4y137CD",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -967,7 +967,7 @@
         "stuff": "虾,茄子,胡萝卜,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1aB4y1U7zQ",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -976,7 +976,7 @@
         "stuff": "鸡肉,鸡蛋,土豆,洋葱",
         "link": "https://www.bilibili.com/video/BV1uu411v7Qf",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -984,9 +984,9 @@
         "name": "焦糖吐司布丁",
         "stuff": "鸡蛋,面包,豆腐",
         "link": "https://www.bilibili.com/video/BV1sq4y197TK",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "空气炸锅"
     },
     {
@@ -994,7 +994,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1JU4y1G7hq",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1002,9 +1002,9 @@
         "name": "空气炸锅爆浆巴斯克芝士蛋糕",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Ja411v7DK",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "空气炸锅"
     },
     {
@@ -1012,7 +1012,7 @@
         "stuff": "米,胡萝卜,香肠,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1oL4y1T7BX",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1021,7 +1021,7 @@
         "stuff": "方便面",
         "link": "https://www.bilibili.com/video/BV11P4y1u7R1",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1030,7 +1030,7 @@
         "stuff": "面食,牛肉",
         "link": "https://www.bilibili.com/video/BV1k44y1P7VY",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1039,7 +1039,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV1qU4y1f7G1",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1048,7 +1048,7 @@
         "stuff": "虾,土豆",
         "link": "https://www.bilibili.com/video/BV1yS4y1u7M6",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1057,7 +1057,7 @@
         "stuff": "土豆,茄子",
         "link": "https://www.bilibili.com/video/BV1pf4y1T7bx",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1065,27 +1065,27 @@
         "name": "空气炸锅法式吐司",
         "stuff": "面包,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Fh41187GB",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "空气炸锅"
     },
     {
         "name": "空气炸锅蜂蜜小面包",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Ja411v7DK",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "空气炸锅"
     },
     {
         "name": "空气炸锅干锅虾烤肉串",
         "stuff": "虾,猪肉",
         "link": "https://www.bilibili.com/video/BV1Ka41117mc",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "空气炸锅"
     },
     {
@@ -1093,7 +1093,7 @@
         "stuff": "土豆,虾",
         "link": "https://www.bilibili.com/video/BV1L3411573m",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1102,7 +1102,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1VR4y1s7XP",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1110,9 +1110,9 @@
         "name": "空气炸锅鸡蛋豆腐羹",
         "stuff": "鸡蛋,豆腐,猪肉",
         "link": "https://www.bilibili.com/video/BV1Hq4y137Vu",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "空气炸锅"
     },
     {
@@ -1120,7 +1120,7 @@
         "stuff": "菌菇,虾",
         "link": "https://www.bilibili.com/video/BV1CY4y1p7qP",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1129,7 +1129,7 @@
         "stuff": "包菜,菌菇,鸡肉",
         "link": "https://www.bilibili.com/video/BV1w44y1V7S5",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1138,7 +1138,7 @@
         "stuff": "豆腐",
         "link": "https://www.bilibili.com/video/BV19L411x7bB",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1147,7 +1147,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1Zr4y1B7UQ",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1156,7 +1156,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1dF411q7of",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1165,7 +1165,7 @@
         "stuff": "面包",
         "link": "https://www.bilibili.com/video/BV1T34y1b7FS",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1174,7 +1174,7 @@
         "stuff": "菌菇",
         "link": "https://www.bilibili.com/video/BV1Jq4y147oM",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1183,7 +1183,7 @@
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1ub4y1C7bp",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1192,7 +1192,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV1H3411J7TH",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1201,7 +1201,7 @@
         "stuff": "茄子",
         "link": "https://www.bilibili.com/video/BV1gP4y1s7GJ",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1210,7 +1210,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV1WY411G7aX",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1219,7 +1219,7 @@
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1E5411D7RE",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1228,7 +1228,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV1Jq4y147oM",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1237,7 +1237,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV11q4y1Y7hW",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1246,7 +1246,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1yL4y1L71E",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1254,9 +1254,9 @@
         "name": "空气炸锅嫩鸡排",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1L3411W7Nr",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "空气炸锅"
     },
     {
@@ -1264,7 +1264,7 @@
         "stuff": "面包",
         "link": "https://www.bilibili.com/video/BV1Lu411z7FK",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1273,7 +1273,7 @@
         "stuff": "面包",
         "link": "https://www.bilibili.com/video/BV1VY411E74H",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1282,7 +1282,7 @@
         "stuff": "豆腐",
         "link": "https://www.bilibili.com/video/BV1Ja411C75G",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1291,7 +1291,7 @@
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1HL4y177B3",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1300,7 +1300,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV1v54y1B7cA",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1309,7 +1309,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV1rS4y137gC",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1317,9 +1317,9 @@
         "name": "空气炸锅甜点（没酵母别选）",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Ja411v7DK",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "空气炸锅"
     },
     {
@@ -1327,7 +1327,7 @@
         "stuff": "虾,猪肉",
         "link": "https://www.bilibili.com/video/BV1Mq4y1h78M",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1336,7 +1336,7 @@
         "stuff": "鸡蛋,西葫芦,胡萝卜",
         "link": "https://www.bilibili.com/video/BV1mu411q715",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1345,7 +1345,7 @@
         "stuff": "包菜",
         "link": "https://www.bilibili.com/video/BV1NB4y1N7SH",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1354,7 +1354,7 @@
         "stuff": "包菜,菌菇",
         "link": "https://www.bilibili.com/video/BV1cF411s7QH",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1363,7 +1363,7 @@
         "stuff": "豆腐",
         "link": "https://www.bilibili.com/video/BV1eR4y1j715",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1372,7 +1372,7 @@
         "stuff": "土豆,香肠,鸡肉,虾,鸡蛋,花菜",
         "link": "https://www.bilibili.com/video/BV18q4y117Cm",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1381,7 +1381,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1S44y1j7YM",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1390,7 +1390,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV14b4y1p7XS",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1399,7 +1399,7 @@
         "stuff": "花菜,豆腐,鸡肉,菌菇",
         "link": "https://www.bilibili.com/video/BV1FU4y1Z7T1",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1408,7 +1408,7 @@
         "stuff": "菌菇",
         "link": "https://www.bilibili.com/video/BV1x4411V7at",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1417,7 +1417,7 @@
         "stuff": "茄子,猪肉",
         "link": "https://www.bilibili.com/video/BV1xP4y1J7eJ",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1426,7 +1426,7 @@
         "stuff": "鸡蛋,黄瓜",
         "link": "https://www.bilibili.com/video/BV1qr4y1p7BX",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1435,7 +1435,7 @@
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1eR4y1j715",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1444,7 +1444,7 @@
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1tq4y1j72x",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1453,7 +1453,7 @@
         "stuff": "豆腐,洋葱,茄子,菌菇,鸡蛋,米",
         "link": "https://www.bilibili.com/video/BV1Ap4y1b7a6",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1462,7 +1462,7 @@
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1xL411A7xG",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1471,7 +1471,7 @@
         "stuff": "豆腐,虾,土豆,鸡蛋",
         "link": "https://www.bilibili.com/video/BV15Z4y1D73J",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1480,7 +1480,7 @@
         "stuff": "面包,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1aQ4y1D77r",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1489,7 +1489,7 @@
         "stuff": "猪肉,花菜",
         "link": "https://www.bilibili.com/video/BV1Jq4y147oM",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1498,7 +1498,7 @@
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1AZ4y1R7T2",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1507,7 +1507,7 @@
         "stuff": "鸡蛋,香肠,鸡肉",
         "link": "https://www.bilibili.com/video/BV15r4y1W7vA",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1516,7 +1516,7 @@
         "stuff": "包菜,香肠,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1DL4y137CD",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1525,7 +1525,7 @@
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1A44y1P7JY",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1534,7 +1534,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/av895289430",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1543,7 +1543,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV155411S7Q1",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "空气炸锅"
     },
@@ -1569,7 +1569,7 @@
         "name": "微波炉版盐烤土豆",
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1Cf4y1R7pe",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "零食",
         "methods": "微波加热",
         "tools": "微波炉"
@@ -1596,34 +1596,34 @@
         "name": "微波炉版乐事同款薯片",
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1Ms411D7Qg",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "同款",
-        "methods": null,
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版FKC同款嫩牛五方",
         "stuff": "牛肉,番茄,面食",
         "link": "https://www.bilibili.com/video/BV1Ji4y1773B",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "同款",
-        "methods": null,
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版可乐鸡翅",
         "stuff": "鸡肉,洋葱",
         "link": "https://www.bilibili.com/video/BV1jJ41127ML",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版蔬菜脆片",
         "stuff": "土豆,西葫芦,黄瓜",
         "link": "https://www.bilibili.com/video/BV1n441187r3",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "杂烩",
         "methods": "微波加热",
         "tools": "微波炉"
@@ -1632,7 +1632,7 @@
         "name": "微波炉火锅",
         "stuff": "菌菇,牛肉,方便面,虾,鸡肉,猪肉,午餐肉,莴笋,豆腐,土豆",
         "link": "https://www.bilibili.com/video/BV1o34y1R7BC",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "杂烩",
         "methods": "微波加热",
         "tools": "微波炉"
@@ -1668,7 +1668,7 @@
         "name": "微波炉版燕麦粥",
         "stuff": "米",
         "link": "https://www.bilibili.com/video/BV1cF411Y7pd",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "主食",
         "methods": "微波加热",
         "tools": "微波炉"
@@ -1677,17 +1677,17 @@
         "name": "微波炉版抱蛋水饺",
         "stuff": "面食,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1zL411x7CU",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版叉烧肉",
         "stuff": "猪肉,米",
         "link": "https://www.bilibili.com/video/BV1Hi4y1s7Sc",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1696,7 +1696,7 @@
         "stuff": "米,鸡蛋,香肠",
         "link": "https://www.bilibili.com/video/BV1T34y147qU",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1704,26 +1704,26 @@
         "name": "微波炉版番茄炒蛋",
         "stuff": "鸡蛋,番茄,米",
         "link": "https://www.bilibili.com/video/BV1zL411x7CU",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版番茄鸡蛋汤",
         "stuff": "番茄,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1qx411n7QF",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版番茄肉盒",
         "stuff": "番茄,猪肉,青椒",
         "link": "https://www.bilibili.com/video/BV194411R7aH",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1731,17 +1731,17 @@
         "name": "微波炉版肥牛饭",
         "stuff": "牛肉,洋葱,鸡蛋,米",
         "link": "https://www.bilibili.com/video/BV1gh411Y7TU",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版干脆面",
         "stuff": "面食",
         "link": "https://www.bilibili.com/video/BV1pL4y1j7oe",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1749,9 +1749,9 @@
         "name": "微波炉版虾吃豆腐",
         "stuff": "虾,豆腐",
         "link": "https://www.bilibili.com/video/BV1VW41157uy",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
@@ -1759,7 +1759,7 @@
         "stuff": "茄子,洋葱,米",
         "link": "https://www.bilibili.com/video/BV17Q4y1y7NC",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1768,7 +1768,7 @@
         "stuff": "鸡蛋,包菜",
         "link": "https://www.bilibili.com/video/BV1bT4y1o7dv",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1776,9 +1776,9 @@
         "name": "微波炉版厚蛋烧（没芝士就别选了）",
         "stuff": "鸡蛋,包菜,香肠",
         "link": "https://www.bilibili.com/video/BV1bT4y1o7dv",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
@@ -1786,7 +1786,7 @@
         "stuff": "胡萝卜,面食",
         "link": "https://www.bilibili.com/video/BV1A94y1o7aW",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1794,27 +1794,27 @@
         "name": "微波炉版鸡胸肉脆片",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1xu41197tU",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版鸡胸肉丸",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1xu41197tU",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版烤鸡翅",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1bT4y1o7dv",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
@@ -1822,7 +1822,7 @@
         "stuff": "豆腐,虾",
         "link": "https://www.bilibili.com/video/BV17Q4y1y7NC",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1831,7 +1831,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV1c44y1T79A",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1840,7 +1840,7 @@
         "stuff": "菌菇",
         "link": "https://www.bilibili.com/video/BV1Nq4y1i72u",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1849,7 +1849,7 @@
         "stuff": "豆腐",
         "link": "https://www.bilibili.com/video/BV1DZ4y1o7ZM",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1858,7 +1858,7 @@
         "stuff": "米",
         "link": "https://www.bilibili.com/video/BV1W7411c7As",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1866,36 +1866,36 @@
         "name": "微波炉版日式嫩蒸鸡胸肉",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1xu41197tU",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版烧烤茄子",
         "stuff": "茄子",
         "link": "https://www.bilibili.com/video/BV19x411H7ig",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版蔬菜烘蛋",
         "stuff": "鸡蛋,猪肉,胡萝卜",
         "link": "https://www.bilibili.com/video/BV1zL411x7CU",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版酸辣土豆丝",
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1zL411x7CU",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
@@ -1903,7 +1903,7 @@
         "stuff": "茄子",
         "link": "https://www.bilibili.com/video/BV19x411H7ig",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1911,17 +1911,17 @@
         "name": "微波炉版蒜香琵琶腿",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1qx411777p",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版吐司杯",
         "stuff": "鸡蛋,面包",
         "link": "https://www.bilibili.com/video/BV1CS4y1k7Xi",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1929,8 +1929,8 @@
         "name": "微波炉版五花肉",
         "stuff": "猪肉,米",
         "link": "https://www.bilibili.com/video/BV1hL4y137Zk",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1938,17 +1938,17 @@
         "name": "微波炉版鲜虾面",
         "stuff": "面食,虾,胡萝卜,方便面",
         "link": "https://www.bilibili.com/video/BV1zL411x7CU",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版香干",
         "stuff": "豆腐",
         "link": "https://www.bilibili.com/video/BV1F44y1T7sQ",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "微波加热",
         "tools": "微波炉"
     },
@@ -1956,72 +1956,72 @@
         "name": "微波炉版香辣豆腐",
         "stuff": "豆腐,米",
         "link": "https://www.bilibili.com/video/BV1bT4y1o7dv",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版香嫩鸡胸肉",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1xu41197tU",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版一个番茄焖饭",
         "stuff": "番茄,米,胡萝卜,香肠,腊肠,土豆",
         "link": "https://www.bilibili.com/video/BV193411W7nb",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版鱼香肉块",
         "stuff": "胡萝卜,鸡肉",
         "link": "https://www.bilibili.com/video/BV1qt411X7Do",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版照烧鸡腿饭",
         "stuff": "米,鸡肉,胡萝卜,花菜",
         "link": "https://www.bilibili.com/video/BV16Z4y1V774",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版蒸蛋羹",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV19T4y1D7Zd",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版煮米饭",
         "stuff": "米",
         "link": "https://www.bilibili.com/video/BV193411W7nb",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
         "name": "微波炉版孜然豆腐丁",
         "stuff": "豆腐",
         "link": "https://www.bilibili.com/video/BV1zL411x7CU",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "微波炉"
     },
     {
@@ -2264,7 +2264,7 @@
         "link": "https://www.bilibili.com/video/BV1954y1b7dv",
         "difficulty": "简单",
         "tags": "国宴菜",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -2478,9 +2478,9 @@
         "name": "芹菜牛肉卷",
         "stuff": "芹菜,牛肉",
         "link": "https://www.bilibili.com/video/BV1Tv411L7V9",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "健康餐",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -2525,7 +2525,7 @@
         "link": "https://www.bilibili.com/video/BV1aW411H7fZ",
         "difficulty": "简单",
         "tags": "快手菜",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -2685,7 +2685,7 @@
         "name": "灵魂土豆丸子",
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1Z64y1674r",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "零食",
         "methods": "蒸",
         "tools": "一口大锅"
@@ -2802,9 +2802,9 @@
         "name": "M记同款薯条",
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1Jx411x7iU",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "同款",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -2813,16 +2813,16 @@
         "link": "https://www.bilibili.com/video/BV1vR4y1N7fN",
         "difficulty": "简单",
         "tags": "同款",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "M记同款麦乐鸡",
         "stuff": "鸡肉,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1KA411e7Gr",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "同款",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -2928,18 +2928,18 @@
         "name": "红烧肉",
         "stuff": "猪肉,鸡肉",
         "link": "https://www.bilibili.com/video/BV1MJ411t7pT",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "可乐鸡翅",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1pJ411v7S9",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3009,18 +3009,18 @@
         "name": "芹菜肥牛",
         "stuff": "芹菜,牛肉",
         "link": "https://www.bilibili.com/video/BV1ML4y1G7ba",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "下饭",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "芹菜粉",
         "stuff": "芹菜,面食",
         "link": "https://www.bilibili.com/video/BV1Eh411Y7Y3",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "下饭",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3036,25 +3036,25 @@
         "name": "芹菜木耳炒蛋",
         "stuff": "芹菜,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Dt411o7hq",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "下饭",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "芹菜油豆腐",
         "stuff": "芹菜,豆腐",
         "link": "https://www.bilibili.com/video/BV15J411G7Dx",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "下饭",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "肉末土豆",
         "stuff": "土豆,肉,米",
         "link": "https://www.bilibili.com/video/BV1ZS4y127wm",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "下饭",
         "methods": "炒",
         "tools": "一口大锅"
@@ -3090,7 +3090,7 @@
         "name": "香辣土豆片",
         "stuff": "土豆,米",
         "link": "https://www.bilibili.com/video/BV1Sq4y137uw",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "下饭",
         "methods": "煮",
         "tools": "一口大锅"
@@ -3117,9 +3117,9 @@
         "name": "芹菜猪肉馅料",
         "stuff": "芹菜,猪肉",
         "link": "https://www.bilibili.com/video/BV18b411r7CP",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "馅料",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3191,7 +3191,7 @@
         "link": "https://www.bilibili.com/video/BV1yz4y1C7Qu",
         "difficulty": "困难",
         "tags": "杂烩",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3200,7 +3200,7 @@
         "link": "https://www.bilibili.com/video/BV1bi4y187ro",
         "difficulty": "困难",
         "tags": "杂烩",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3209,7 +3209,7 @@
         "link": "https://www.bilibili.com/video/BV1Qb411u7Vu",
         "difficulty": "普通",
         "tags": "杂烩",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3218,16 +3218,16 @@
         "link": "https://www.bilibili.com/video/BV1zD4y197Us",
         "difficulty": "困难",
         "tags": "杂烩",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "无米炒饭",
         "stuff": "花菜,黄瓜,胡萝卜,鸡蛋,豆腐,虾",
         "link": "https://www.bilibili.com/video/BV1Cf4y1V7sv",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "杂烩",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3342,18 +3342,18 @@
         "name": "芹菜蒸面卷",
         "stuff": "芹菜,胡萝卜,面食",
         "link": "https://www.bilibili.com/video/BV1JZ4y1s7Sh",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "主食",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "蒸芹菜叶",
         "stuff": "芹菜,面食",
         "link": "https://www.bilibili.com/video/BV1Rg411c72w",
-        "difficulty": null,
+        "difficulty": "",
         "tags": "主食",
-        "methods": null,
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3361,8 +3361,8 @@
         "stuff": "白菜,土豆",
         "link": "https://www.bilibili.com/video/BV17y4y1e76x",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3370,62 +3370,62 @@
         "stuff": "白菜,菌菇",
         "link": "https://www.bilibili.com/video/BV1MS4y117Kp",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "白菜荷包蛋",
         "stuff": "白菜,鸡蛋,猪肉",
         "link": "https://www.bilibili.com/video/BV16W411a7V8",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "白菜鸡蛋烙",
         "stuff": "白菜,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1rb411F7en",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "白菜鸡胸肉",
         "stuff": "白菜,鸡肉",
         "link": "https://www.bilibili.com/video/BV1nf4y127Cx",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "白菜鸡胸肉卷",
         "stuff": "白菜,鸡肉,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1nf4y127Cx",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "白菜卷火锅",
         "stuff": "白菜,菌菇,胡萝卜,香肠",
         "link": "https://www.bilibili.com/video/BV1wY411n7Vk",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "白菜酿肉",
         "stuff": "白菜,猪肉,胡萝卜,菌菇",
         "link": "https://www.bilibili.com/video/BV1Q5411J7oT",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3433,8 +3433,8 @@
         "stuff": "白菜,番茄,洋葱,猪肉,米,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Ru411C7Hn",
         "difficulty": "困难",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3442,8 +3442,8 @@
         "stuff": "白菜,胡萝卜,西葫芦,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1oF411B7Ys",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3451,7 +3451,7 @@
         "stuff": "白萝卜,骨头",
         "link": "https://www.bilibili.com/video/BV1dU4y1u7eb",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煲",
         "tools": "一口大锅"
     },
@@ -3460,7 +3460,7 @@
         "stuff": "白萝卜,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1PK4y157u2",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -3469,7 +3469,7 @@
         "stuff": "骨头,白萝卜",
         "link": "https://www.bilibili.com/video/BV1HE41137ZY",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炖",
         "tools": "一口大锅"
     },
@@ -3478,7 +3478,7 @@
         "stuff": "白萝卜,猪肉",
         "link": "https://www.bilibili.com/video/BV1m7411c7pD",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "炖",
         "tools": "一口大锅"
     },
@@ -3487,7 +3487,7 @@
         "stuff": "白萝卜,骨头",
         "link": "https://www.bilibili.com/video/BV1gf4y1u7ap",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -3496,8 +3496,8 @@
         "stuff": "白萝卜,鸡肉",
         "link": "https://www.bilibili.com/video/BV1fs41187XG",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3505,7 +3505,7 @@
         "stuff": "白萝卜,猪肉",
         "link": "https://www.bilibili.com/video/BV1x54y147mz",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -3513,18 +3513,18 @@
         "name": "白切肉",
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV15h411s7Ze",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "班尼迪克蛋",
         "stuff": "鸡蛋,面包",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3532,7 +3532,7 @@
         "stuff": "包菜,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1w34y1k7wu",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -3541,7 +3541,7 @@
         "stuff": "包菜,腊肠",
         "link": "https://www.bilibili.com/video/BV1AW411m77S",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -3550,7 +3550,7 @@
         "stuff": "包菜,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1tA411F7Eq",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煎",
         "tools": "一口大锅"
     },
@@ -3559,7 +3559,7 @@
         "stuff": "包菜,豆腐",
         "link": "https://www.bilibili.com/video/BV1Cq4y157s1",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煲",
         "tools": "一口大锅"
     },
@@ -3568,7 +3568,7 @@
         "stuff": "包菜,猪肉",
         "link": "https://www.bilibili.com/video/BV1Wp4y1a7YR",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -3577,7 +3577,7 @@
         "stuff": "猪肉,包菜",
         "link": "https://www.bilibili.com/video/BV1La411F7H4",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -3585,27 +3585,27 @@
         "name": "抱蛋肥牛饭",
         "stuff": "洋葱,牛肉,鸡蛋,米",
         "link": "https://www.bilibili.com/video/BV1Kb4y147m2",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "爆汁肉饼",
         "stuff": "猪肉,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Cm4y1X7ej",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "爆汁香脆蛋",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1yR4y1575Y",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3613,7 +3613,7 @@
         "stuff": "面食",
         "link": "https://www.bilibili.com/video/BV1844y157GL",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "油泼",
         "tools": "一口大锅"
     },
@@ -3621,17 +3621,17 @@
         "name": "菜包鸡胸",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1h54y1Q7pf",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "茶叶蛋",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "卤",
         "tools": "一口大锅"
     },
@@ -3640,7 +3640,7 @@
         "stuff": "番茄,洋葱",
         "link": "https://www.bilibili.com/video/BV1hF411t7hS",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -3649,7 +3649,7 @@
         "stuff": "白萝卜",
         "link": "https://www.bilibili.com/video/BV1ph411p7Pm",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -3658,7 +3658,7 @@
         "stuff": "方便面,鸡蛋,香肠",
         "link": "https://www.bilibili.com/video/BV1Q54y1p7n8",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -3667,7 +3667,7 @@
         "stuff": "菌菇,猪肉",
         "link": "https://www.bilibili.com/video/BV15E411K7B5",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -3676,7 +3676,7 @@
         "stuff": "方便面,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1G7411f7FA",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -3685,7 +3685,7 @@
         "stuff": "面食",
         "link": "https://www.bilibili.com/video/BV1H7411c7Xe",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "拌",
         "tools": "一口大锅"
     },
@@ -3694,7 +3694,7 @@
         "stuff": "面食",
         "link": "https://www.bilibili.com/video/BV1gb411J7Xe",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烙",
         "tools": "一口大锅"
     },
@@ -3703,7 +3703,7 @@
         "stuff": "鸡肉,洋葱,菌菇",
         "link": "https://www.bilibili.com/video/BV1uP4y1P7oQ",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煎",
         "tools": "一口大锅"
     },
@@ -3711,9 +3711,9 @@
         "name": "醋溜白菜",
         "stuff": "白菜,米",
         "link": "https://www.bilibili.com/video/BV12K4y157im",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3721,7 +3721,7 @@
         "stuff": "面食,猪肉",
         "link": "https://www.bilibili.com/video/BV1XC4y1p7Yn",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "拌",
         "tools": "一口大锅"
     },
@@ -3730,8 +3730,8 @@
         "stuff": "豆腐",
         "link": "https://www.bilibili.com/video/BV1dU4y1d7hz",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3739,7 +3739,7 @@
         "stuff": "虾,土豆",
         "link": "https://www.bilibili.com/video/BV1Kq4y1q7PM",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "一口大锅"
     },
@@ -3747,35 +3747,35 @@
         "name": "大餐口味方便面",
         "stuff": "方便面",
         "link": "https://www.bilibili.com/video/BV1s34y1X74a",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "大虾烧白菜",
         "stuff": "白菜,虾",
         "link": "https://www.bilibili.com/video/BV1yT4y157x5",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "地三鲜",
         "stuff": "土豆,茄子",
         "link": "https://www.bilibili.com/video/BV1st4y1Y73H",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "东北鸡蛋酱",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -3784,16 +3784,16 @@
         "stuff": "豆腐,鸡蛋,米",
         "link": "https://www.bilibili.com/video/BV1dU4y1d7hz",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "法式炒蛋",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -3802,7 +3802,7 @@
         "stuff": "胡萝卜,牛肉,洋葱",
         "link": "https://www.bilibili.com/video/BV1UR4y1V7nV",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "炖",
         "tools": "一口大锅"
     },
@@ -3811,7 +3811,7 @@
         "stuff": "番茄,牛肉",
         "link": "https://www.bilibili.com/video/BV1hF411t7hS",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -3820,7 +3820,7 @@
         "stuff": "番茄,牛肉,面食",
         "link": "https://www.bilibili.com/video/BV1xb4y167LH",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -3829,7 +3829,7 @@
         "stuff": "番茄,虾,面食",
         "link": "https://www.bilibili.com/video/BV1eZ4y1o7TK",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -3838,7 +3838,7 @@
         "stuff": "鸡肉,胡萝卜,土豆,洋葱",
         "link": "https://www.bilibili.com/video/BV1Ap4y147Ac",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -3847,7 +3847,7 @@
         "stuff": "方便面,番茄,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1tL4y1b7SM",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -3856,7 +3856,7 @@
         "stuff": "番茄,鸡蛋,面食",
         "link": "https://www.bilibili.com/video/BV1hF411t7hS",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -3864,9 +3864,9 @@
         "name": "番茄焖面",
         "stuff": "番茄,面食,香肠,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1NL4y1571X",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3874,7 +3874,7 @@
         "stuff": "番茄,骨头",
         "link": "https://www.bilibili.com/video/BV11y4y167Wa",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -3883,7 +3883,7 @@
         "stuff": "茄子,番茄",
         "link": "https://www.bilibili.com/video/BV11b4y1i7ck",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -3892,7 +3892,7 @@
         "stuff": "牛肉,土豆,番茄,胡萝卜,米",
         "link": "https://www.bilibili.com/video/BV1La411i73b",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -3901,7 +3901,7 @@
         "stuff": "番茄,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1PQ4y1d7ew",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煎",
         "tools": "一口大锅"
     },
@@ -3910,7 +3910,7 @@
         "stuff": "方便面,米,香肠,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Uf4y157RG",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -3919,17 +3919,17 @@
         "stuff": "黄瓜,虾,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1E4411w7wC",
         "difficulty": "复杂",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "富贵金钱蛋（湖南口味辣）",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV15q4y1A784",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3937,17 +3937,17 @@
         "stuff": "花菜,洋葱,米",
         "link": "https://www.bilibili.com/video/BV1Rb4y147bZ",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "干锅莴笋",
         "stuff": "莴笋",
         "link": "https://www.bilibili.com/video/BV1TC4y1W76c",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3955,7 +3955,7 @@
         "stuff": "西葫芦,洋葱",
         "link": "https://www.bilibili.com/video/BV1eP4y1T76T",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -3963,18 +3963,18 @@
         "name": "干锅西葫芦",
         "stuff": "西葫芦,猪肉",
         "link": "https://www.bilibili.com/video/BV1Vu411B7o6",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "宫保鸡丁",
         "stuff": "鸡肉,黄瓜",
         "link": "https://www.bilibili.com/video/BV1wE411T7X5",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -3982,7 +3982,7 @@
         "stuff": "方便面,鸡蛋,牛肉",
         "link": "https://www.bilibili.com/video/BV1Uf4y157RG",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -3991,7 +3991,7 @@
         "stuff": "骨头,猪肉",
         "link": "https://www.bilibili.com/video/BV1bS4y1K7BD",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炖",
         "tools": "一口大锅"
     },
@@ -4000,7 +4000,7 @@
         "stuff": "方便面,虾,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1G7411f7FA",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -4008,9 +4008,9 @@
         "name": "黑椒鸡胸肉",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1PX4y1V7S3",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4018,7 +4018,7 @@
         "stuff": "骨头",
         "link": "https://www.bilibili.com/video/BV1hg4y1i7Ss",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -4026,8 +4026,8 @@
         "name": "厚蛋烧",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "煎",
         "tools": "一口大锅"
     },
@@ -4035,9 +4035,9 @@
         "name": "胡辣莴笋",
         "stuff": "莴笋",
         "link": "https://www.bilibili.com/video/BV1NW411T7Xb",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4045,8 +4045,8 @@
         "stuff": "花菜,虾仁,米,洋葱,胡萝卜",
         "link": "https://www.bilibili.com/video/BV1z4411a7dy",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4054,7 +4054,7 @@
         "stuff": "牛肉,鸡蛋",
         "link": "https://www.bilibili.com/video/BV12u411Z72s",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4063,7 +4063,7 @@
         "stuff": "黄瓜,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1y441147r5",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4072,8 +4072,8 @@
         "stuff": "黄瓜,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1GW411L7Sb",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4081,8 +4081,8 @@
         "stuff": "黄瓜,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1zi4y1w7C8",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4090,8 +4090,8 @@
         "stuff": "鸡肉,黄瓜,胡萝卜",
         "link": "https://www.bilibili.com/video/BV1BF41137JV",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4099,7 +4099,7 @@
         "stuff": "黄瓜,猪肉",
         "link": "https://www.bilibili.com/video/BV1WS4y1r7Tx",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4107,18 +4107,18 @@
         "name": "火腿白菜豆腐煲",
         "stuff": "白菜,豆腐,香肠",
         "link": "https://www.bilibili.com/video/BV1o44y1r7hX",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "鸡蛋饼",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1a34y117iz",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4126,7 +4126,7 @@
         "stuff": "方便面,鸡蛋,番茄",
         "link": "https://www.bilibili.com/video/BV1SS4y1G7fp",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "拌",
         "tools": "一口大锅"
     },
@@ -4135,7 +4135,7 @@
         "stuff": "方面,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1SS4y1G7fp",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "焖",
         "tools": "一口大锅"
     },
@@ -4143,8 +4143,8 @@
         "name": "鸡蛋蒜",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4153,7 +4153,7 @@
         "stuff": "花菜,豆腐,鸡蛋",
         "link": "https://www.bilibili.com/video/BV164411g77n",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炖",
         "tools": "一口大锅"
     },
@@ -4161,9 +4161,9 @@
         "name": "鸡蛋洋葱饭",
         "stuff": "洋葱,鸡蛋,米",
         "link": "https://www.bilibili.com/video/BV1TU4y1H7Cr",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4171,7 +4171,7 @@
         "stuff": "方便面,鸡蛋,香肠",
         "link": "https://www.bilibili.com/video/BV1SS4y1G7fp",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -4179,36 +4179,36 @@
         "name": "鸡蛋芝士培根吐司",
         "stuff": "鸡蛋,面包",
         "link": "https://www.bilibili.com/video/BV1hv411E7RW",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "鸡胸肉蔬菜小饼",
         "stuff": "鸡肉,胡萝卜,花菜",
         "link": "https://www.bilibili.com/video/BV1i7411d7Rd",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "家常黄焖鸡（多调料版）",
         "stuff": "鸡肉,菌菇,土豆,胡萝卜",
         "link": "https://www.bilibili.com/video/BV17u411X7rR",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "煎蛋方便面",
         "stuff": "方便面",
         "link": "https://www.bilibili.com/video/BV1s34y1X74a",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4216,7 +4216,7 @@
         "stuff": "面食,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1d54y1v7JE",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -4225,7 +4225,7 @@
         "stuff": "方便面,鸡蛋,胡萝卜",
         "link": "https://www.bilibili.com/video/BV1Ey4y1g7p8",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煎",
         "tools": "一口大锅"
     },
@@ -4233,8 +4233,8 @@
         "name": "煎土豆",
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV15s411A7GB",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "炸",
         "tools": "一口大锅"
     },
@@ -4243,7 +4243,7 @@
         "stuff": "西葫芦",
         "link": "https://www.bilibili.com/video/BV175411U7LU",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4252,7 +4252,7 @@
         "stuff": "黄瓜",
         "link": "https://www.bilibili.com/video/BV1y4411T78H",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "腌制",
         "tools": "一口大锅"
     },
@@ -4260,9 +4260,9 @@
         "name": "酱鸡蛋",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV19L411u7H4",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4270,7 +4270,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1HK4y1o77T",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "煎",
         "tools": "一口大锅"
     },
@@ -4279,7 +4279,7 @@
         "stuff": "土豆,午餐肉",
         "link": "https://www.bilibili.com/video/BV1W34y1k7Bg",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "一口大锅"
     },
@@ -4287,9 +4287,9 @@
         "name": "开胃莴笋叶",
         "stuff": "莴笋",
         "link": "https://www.bilibili.com/video/BV16441147Dc",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4297,7 +4297,7 @@
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1RL411E7Uv",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "一口大锅"
     },
@@ -4306,7 +4306,7 @@
         "stuff": "腊肠,黄瓜,米",
         "link": "https://www.bilibili.com/video/BV1zA411x7oK",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4315,7 +4315,7 @@
         "stuff": "腊肠,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1x54y127CC",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4324,7 +4324,7 @@
         "stuff": "腊肠,豆腐,米",
         "link": "https://www.bilibili.com/video/BV1Sf4y1r7mS",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煲",
         "tools": "一口大锅"
     },
@@ -4333,7 +4333,7 @@
         "stuff": "腊肠,茄子,米",
         "link": "https://www.bilibili.com/video/BV1vW411g7td",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煲",
         "tools": "一口大锅"
     },
@@ -4342,7 +4342,7 @@
         "stuff": "腊肠,面食",
         "link": "https://www.bilibili.com/video/BV1VV411C7o2",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -4351,35 +4351,35 @@
         "stuff": "黄瓜,牛肉,洋葱",
         "link": "https://www.bilibili.com/video/BV1qr4y1Y792",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "辣子鸡丁",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1Ma4y147MA",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "烂糊白菜",
         "stuff": "白菜,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1x3411y7eN",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "莲花洋葱（消耗洋葱！）",
         "stuff": "洋葱,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1MW411T7Cv",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4387,44 +4387,44 @@
         "stuff": "黄瓜,虾",
         "link": "https://www.bilibili.com/video/BV1RF411W7v7",
         "difficulty": "复杂",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "凉拌莴苣",
         "stuff": "莴笋",
         "link": "https://www.bilibili.com/video/BV1z3411Y7Bs",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "凉拌胸丝",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1h54y1Q7pf",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "凉拌洋葱",
         "stuff": "洋葱",
         "link": "https://www.bilibili.com/video/BV1BS4y1G7XD",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "流心蛋",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Yt411G7Ut",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4432,7 +4432,7 @@
         "stuff": "白萝卜,牛肉",
         "link": "https://www.bilibili.com/video/BV1a7411L733",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "煲",
         "tools": "一口大锅"
     },
@@ -4441,7 +4441,7 @@
         "stuff": "白萝卜,牛肉",
         "link": "https://www.bilibili.com/video/BV1nK41137Lb",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -4450,7 +4450,7 @@
         "stuff": "白萝卜,骨头",
         "link": "https://www.bilibili.com/video/BV1YV411f7L8",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -4459,7 +4459,7 @@
         "stuff": "白萝卜,牛肉",
         "link": "https://www.bilibili.com/video/BV1jA411P7LJ",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4468,7 +4468,7 @@
         "stuff": "白萝卜,虾",
         "link": "https://www.bilibili.com/video/BV1Mp4y1z7Yr",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "煲",
         "tools": "一口大锅"
     },
@@ -4477,7 +4477,7 @@
         "stuff": "胡萝卜,土豆,番茄,牛肉,包菜",
         "link": "https://www.bilibili.com/video/BV1394y1d7f6",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -4486,7 +4486,7 @@
         "stuff": "面食",
         "link": "https://www.bilibili.com/video/BV1fa4y1a7Xy",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "蒸",
         "tools": "一口大锅"
     },
@@ -4495,7 +4495,7 @@
         "stuff": "方便面,香肠,鸡蛋,包菜",
         "link": "https://www.bilibili.com/video/BV1Yp411o7MB",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -4503,18 +4503,18 @@
         "name": "焖泡面",
         "stuff": "方便面,猪肉,茄子",
         "link": "https://www.bilibili.com/video/BV1s34y1X74a",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "秘制洋葱炒肥牛",
         "stuff": "洋葱,牛肉",
         "link": "https://www.bilibili.com/video/BV1vT4y1E7fZ",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4522,17 +4522,17 @@
         "stuff": "土豆,猪肉",
         "link": "https://www.bilibili.com/video/BV1fY41187Xo",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "奶汤方便面",
         "stuff": "方便面",
         "link": "https://www.bilibili.com/video/BV1s34y1X74a",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4540,8 +4540,8 @@
         "stuff": "黄瓜,牛肉,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1V5411S7Uv",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4549,7 +4549,7 @@
         "stuff": "黄瓜",
         "link": "https://www.bilibili.com/video/BV1RV41167WV",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "凉拌",
         "tools": "一口大锅"
     },
@@ -4557,8 +4557,8 @@
         "name": "铺盖打蛋",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4567,7 +4567,7 @@
         "stuff": "茄子",
         "link": "https://www.bilibili.com/video/BV1q44y1n78y",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -4576,7 +4576,7 @@
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1nb4y147D6",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "一口大锅"
     },
@@ -4585,7 +4585,7 @@
         "stuff": "虾,番茄,米,面食",
         "link": "https://www.bilibili.com/video/BV1aJ411K75X",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -4593,9 +4593,9 @@
         "name": "茄汁蛋黄浓汤面",
         "stuff": "方便面,番茄,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1s34y1X74a",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4603,7 +4603,7 @@
         "stuff": "番茄,豆腐",
         "link": "https://www.bilibili.com/video/BV1Xb4y1p7mv",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -4612,17 +4612,17 @@
         "stuff": "花菜,番茄",
         "link": "https://www.bilibili.com/video/BV1J541187QQ",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "茄汁鸡胸肉",
         "stuff": "鸡肉,番茄",
         "link": "https://www.bilibili.com/video/BV1L54y1b7Xq",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4630,7 +4630,7 @@
         "stuff": "茄子,猪肉",
         "link": "https://www.bilibili.com/video/BV1L3411H7EK",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炸/煎",
         "tools": "一口大锅"
     },
@@ -4639,7 +4639,7 @@
         "stuff": "芹菜,猪肉",
         "link": "https://www.bilibili.com/video/av209779329",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4648,7 +4648,7 @@
         "stuff": "芹菜,猪肉",
         "link": "https://www.bilibili.com/video/av806554209",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4657,7 +4657,7 @@
         "stuff": "芹菜",
         "link": "https://www.bilibili.com/video/av671691480",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4666,7 +4666,7 @@
         "stuff": "芹菜,鸡蛋",
         "link": "https://www.bilibili.com/video/av247131174",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "煎",
         "tools": "一口大锅"
     },
@@ -4675,7 +4675,7 @@
         "stuff": "牛肉,白萝卜",
         "link": "https://www.bilibili.com/video/BV1CL4y1n76E",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炖",
         "tools": "一口大锅"
     },
@@ -4684,44 +4684,44 @@
         "stuff": "黄瓜,香肠",
         "link": "https://www.bilibili.com/video/BV1u7411Z79s",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "青椒炒荷包蛋",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1wJ41167uH",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "热拌莴笋叶",
         "stuff": "莴笋",
         "link": "https://www.bilibili.com/video/BV1xJ411M7bc",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "日式汉堡排（废手）",
         "stuff": "面包,洋葱,猪肉,牛肉,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1UV411Y7HM",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "肉炒莴苣",
         "stuff": "莴笋,猪肉",
         "link": "https://www.bilibili.com/video/BV14E411t7wh",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4729,7 +4729,7 @@
         "stuff": "茄子,土豆,猪肉",
         "link": "https://www.bilibili.com/video/BV1Fu411S78s",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煲",
         "tools": "一口大锅"
     },
@@ -4738,7 +4738,7 @@
         "stuff": "白萝卜,虾,猪肉",
         "link": "https://www.bilibili.com/video/BV1gT4y1m7UK",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煲",
         "tools": "一口大锅"
     },
@@ -4746,18 +4746,18 @@
         "name": "赛螃蟹",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1ab4y1s7wk",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "三杯鸡（无九层塔版）",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1dp4y1e73R",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4765,7 +4765,7 @@
         "stuff": "白萝卜",
         "link": "https://www.bilibili.com/video/BV1Yu41127Fa",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "煎",
         "tools": "一口大锅"
     },
@@ -4774,7 +4774,7 @@
         "stuff": "土豆",
         "link": "https://www.bilibili.com/video/BV1fY41187Xo",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "一口大锅"
     },
@@ -4782,9 +4782,9 @@
         "name": "爽口腌莴笋",
         "stuff": "莴笋",
         "link": "https://www.bilibili.com/video/BV1Vv411V7SE",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4792,7 +4792,7 @@
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -4801,16 +4801,16 @@
         "stuff": "牛肉,菌菇,莴笋,豆腐",
         "link": "https://www.bilibili.com/video/BV11q4y1z7dD",
         "difficulty": "复杂",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "苏格兰蛋",
         "stuff": "鸡蛋,猪肉",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "炸",
         "tools": "一口大锅"
     },
@@ -4819,7 +4819,7 @@
         "stuff": "白萝卜",
         "link": "https://www.bilibili.com/video/BV1Z7411b7xo",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -4827,9 +4827,9 @@
         "name": "蒜香蜂胸扒",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1h54y1Q7pf",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4837,7 +4837,7 @@
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1sy4y1273W",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煎",
         "tools": "一口大锅"
     },
@@ -4845,26 +4845,26 @@
         "name": "蒜香鸡胸肉",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1tf4y1A7xR",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "蓑衣黄瓜",
         "stuff": "黄瓜",
         "link": "https://www.bilibili.com/video/BV1Wa411C7Gc",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "泰式卤蛋",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "卤",
         "tools": "一口大锅"
     },
@@ -4872,8 +4872,8 @@
         "name": "糖醋荷包蛋",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "煎",
         "tools": "一口大锅"
     },
@@ -4881,9 +4881,9 @@
         "name": "糖醋鸡胸肉",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1h7411C7PZ",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4891,7 +4891,7 @@
         "stuff": "猪肉",
         "link": "https://www.bilibili.com/video/BV1Dt411B78h",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "一口大锅"
     },
@@ -4900,7 +4900,7 @@
         "stuff": "茄子,米",
         "link": "https://www.bilibili.com/video/BV1TE411L7Gp",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -4909,8 +4909,8 @@
         "stuff": "豆腐",
         "link": "https://www.bilibili.com/video/BV1dU4y1d7hz",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4918,7 +4918,7 @@
         "stuff": "土豆,香肠,米",
         "link": "https://www.bilibili.com/video/BV1YD4y1c7ip",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4927,7 +4927,7 @@
         "stuff": "茄子,土豆",
         "link": "https://www.bilibili.com/video/BV1uP4y1M7rt",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炖",
         "tools": "一口大锅"
     },
@@ -4935,9 +4935,9 @@
         "name": "土豆胡萝卜炖牛腩",
         "stuff": "牛肉,胡萝卜,土豆,",
         "link": "https://www.bilibili.com/video/BV1R54y1E7JX",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4945,7 +4945,7 @@
         "stuff": "腊肠,土豆,米",
         "link": "https://www.bilibili.com/video/BV1wV411o7Sq",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "煲",
         "tools": "一口大锅"
     },
@@ -4954,7 +4954,7 @@
         "stuff": "土豆,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1DL4y1j7Nu",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "煎",
         "tools": "一口大锅"
     },
@@ -4963,7 +4963,7 @@
         "stuff": "土豆,牛肉",
         "link": "https://www.bilibili.com/video/BV1qs411u7gj",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -4972,26 +4972,26 @@
         "stuff": "面包,鸡蛋,虾,包菜,香肠",
         "link": "https://www.bilibili.com/video/BV1Tq4y1t7DC",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "丸子面",
         "stuff": "方便面,猪肉,牛肉",
         "link": "https://www.bilibili.com/video/BV1s34y1X74a",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "莴笋菜饭",
         "stuff": "莴笋",
         "link": "https://www.bilibili.com/video/BV1wC4y1Y7iY",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -4999,7 +4999,7 @@
         "stuff": "莴笋,虾,胡萝卜",
         "link": "https://www.bilibili.com/video/BV1ZT4y1g7Y2",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -5008,8 +5008,8 @@
         "stuff": "莴笋,鸡肉",
         "link": "https://www.bilibili.com/video/BV1hb411i7X2",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -5017,7 +5017,7 @@
         "stuff": "莴笋,香肠",
         "link": "https://www.bilibili.com/video/BV1Ms411F7da",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -5025,18 +5025,18 @@
         "name": "莴笋胡萝卜酿肉",
         "stuff": "莴笋,胡萝卜",
         "link": "https://www.bilibili.com/video/BV1754y1y7eV",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "莴笋三吃",
         "stuff": "莴笋",
         "link": "https://www.bilibili.com/video/BV1Bf4y1E7BR",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -5044,7 +5044,7 @@
         "stuff": "午餐肉,鸡蛋,米",
         "link": "https://www.bilibili.com/video/BV1HE411X7xR",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -5053,7 +5053,7 @@
         "stuff": "午餐肉,土豆,胡萝卜",
         "link": "https://www.bilibili.com/video/BV1gT4y1Q7R8",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -5061,9 +5061,9 @@
         "name": "西班牙土豆鸡蛋饼",
         "stuff": "鸡蛋,土豆,洋葱",
         "link": "https://www.bilibili.com/video/BV1Vz4y1D7nF",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -5071,7 +5071,7 @@
         "stuff": "西葫芦,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Mt411T7pF",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "煎",
         "tools": "一口大锅"
     },
@@ -5080,8 +5080,8 @@
         "stuff": "西葫芦,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1R94y1d7dd",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -5089,7 +5089,7 @@
         "stuff": "花菜,虾",
         "link": "https://www.bilibili.com/video/BV1nv411B78i",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -5098,35 +5098,35 @@
         "stuff": "白菜,菌菇",
         "link": "https://www.bilibili.com/video/BV1Cs411G7bw",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "香煎鸡胸肉",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1W4411j71M",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "香辣鸡胸肉",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1M34y187r2",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "小炒鸡胸肉",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV1pF411a7nW",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -5134,17 +5134,17 @@
         "stuff": "黄瓜,牛肉,米",
         "link": "https://www.bilibili.com/video/BV1MK411T7NX",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "雪碧拌面（要雪碧+老干妈）",
         "stuff": "方便面,黄瓜",
         "link": "https://www.bilibili.com/video/BV1az4y117d1",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -5152,7 +5152,7 @@
         "stuff": "面食",
         "link": "https://www.bilibili.com/video/BV11E411C7e7",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "煮",
         "tools": "一口大锅"
     },
@@ -5160,72 +5160,72 @@
         "name": "洋葱拌鸡丝",
         "stuff": "洋葱,鸡肉",
         "link": "https://www.bilibili.com/video/BV1Ki4y1P7tN",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "洋葱拌木耳",
         "stuff": "洋葱,木耳",
         "link": "https://www.bilibili.com/video/BV1n5411H7Yo",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "洋葱炒鸡蛋",
         "stuff": "洋葱,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Dp4y1k7Mu",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "洋葱炒肉",
         "stuff": "洋葱,鸡肉",
         "link": "https://www.bilibili.com/video/BV1QV41127ES",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "洋葱炒土豆",
         "stuff": "土豆,洋葱",
         "link": "https://www.bilibili.com/video/BV1mg4y1b7z3",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "洋葱虾仁滑蛋",
         "stuff": "鸡蛋,牛肉,洋葱,虾",
         "link": "https://www.bilibili.com/video/BV1uE411N7AN",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "洋葱排骨",
         "stuff": "洋葱,猪肉",
         "link": "https://www.bilibili.com/video/BV1Q3411j7p6",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "洋葱烧鸡肉",
         "stuff": "洋葱,鸡肉",
         "link": "https://www.bilibili.com/video/BV1hW411y7Dp",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -5233,25 +5233,25 @@
         "stuff": "豆腐",
         "link": "https://www.bilibili.com/video/BV1dU4y1d7hz",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "一只鸡蛋糕",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1X7411a7EQ",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "英式炒蛋",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
-        "difficulty": null,
-        "tags": null,
+        "difficulty": "",
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -5259,9 +5259,9 @@
         "name": "油墩子/腰子饼",
         "stuff": "白萝卜,芹菜,香肠,面食,鸡蛋",
         "link": "https://www.bilibili.com/video/BV12b4y1i7DP",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -5269,7 +5269,7 @@
         "stuff": "茄子,鸡肉",
         "link": "https://www.bilibili.com/video/BV1yL411E7oP",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "烧",
         "tools": "一口大锅"
     },
@@ -5278,7 +5278,7 @@
         "stuff": "面食",
         "link": "https://www.bilibili.com/video/BV1vf4y1T7gY",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "蒸",
         "tools": "一口大锅"
     },
@@ -5287,7 +5287,7 @@
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1TT4y127vu",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "一口大锅"
     },
@@ -5296,7 +5296,7 @@
         "stuff": "葫芦卜,鸡蛋",
         "link": "https://www.bilibili.com/video/BV11a411i7f4",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "一口大锅"
     },
@@ -5305,7 +5305,7 @@
         "stuff": "胡萝卜,鸡蛋,香肠",
         "link": "https://www.bilibili.com/video/BV12r4y1i7ud",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "一口大锅"
     },
@@ -5314,7 +5314,7 @@
         "stuff": "茄子",
         "link": "https://www.bilibili.com/video/BV1df4y177NB",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "一口大锅"
     },
@@ -5323,7 +5323,7 @@
         "stuff": "土豆,香肠",
         "link": "https://www.bilibili.com/video/BV1Na4y1a7LA",
         "difficulty": "简单",
-        "tags": null,
+        "tags": "",
         "methods": "炸",
         "tools": "一口大锅"
     },
@@ -5331,18 +5331,18 @@
         "name": "炸洋葱",
         "stuff": "洋葱",
         "link": "https://www.bilibili.com/video/BV1ib411V7H2",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "照烧鸡胸肉",
         "stuff": "鸡肉",
         "link": "https://www.bilibili.com/video/BV12Q4y1K7CA",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -5350,7 +5350,7 @@
         "stuff": "牛肉",
         "link": "https://www.bilibili.com/video/BV1mq4y1x7o3",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -5358,27 +5358,27 @@
         "name": "朝鲜冷面（方便面版）",
         "stuff": "方便面",
         "link": "https://www.bilibili.com/video/BV1s34y1X74a",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "蒸蛋羹",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1Wt411Z7td",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
         "name": "蒸蛋羹（硬核0失败版）",
         "stuff": "鸡蛋",
         "link": "https://www.bilibili.com/video/BV1x441117r4",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -5386,7 +5386,7 @@
         "stuff": "面食",
         "link": "https://www.bilibili.com/video/BV1sZ4y137QG",
         "difficulty": "困难",
-        "tags": null,
+        "tags": "",
         "methods": "蒸",
         "tools": "一口大锅"
     },
@@ -5395,7 +5395,7 @@
         "stuff": "芹菜,鸡蛋",
         "link": "https://www.bilibili.com/video/av809152626",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "蒸",
         "tools": "一口大锅"
     },
@@ -5403,9 +5403,9 @@
         "name": "正确煮方便面",
         "stuff": "方便面",
         "link": "https://www.bilibili.com/video/BV1s34y1X74a",
-        "difficulty": null,
-        "tags": null,
-        "methods": null,
+        "difficulty": "",
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -5413,7 +5413,7 @@
         "stuff": "牛肉,土豆",
         "link": "https://www.bilibili.com/video/BV1qX4y1T7ax",
         "difficulty": "普通",
-        "tags": null,
+        "tags": "",
         "methods": "炒",
         "tools": "一口大锅"
     },
@@ -5422,8 +5422,8 @@
         "stuff": "牛肉",
         "link": "https://www.bilibili.com/video/BV1Ht411d71Q",
         "difficulty": "复杂",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅"
     },
     {
@@ -5431,8 +5431,8 @@
         "stuff": "番茄,牛肉,米",
         "link": "https://www.bilibili.com/video/BV1Bv411C7X3",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅,电饭煲"
     },
     {
@@ -5440,8 +5440,8 @@
         "stuff": "猪肉,土豆,米",
         "link": "https://www.bilibili.com/video/BV1Bv411C7X3",
         "difficulty": "普通",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅,电饭煲"
     },
     {
@@ -5449,8 +5449,8 @@
         "stuff": "米,鸡蛋",
         "link": "https://www.bilibili.com/video/BV1hr4y1k7A5",
         "difficulty": "简单",
-        "tags": null,
-        "methods": null,
+        "tags": "",
+        "methods": "",
         "tools": "一口大锅,电饭煲"
     }
 ]
