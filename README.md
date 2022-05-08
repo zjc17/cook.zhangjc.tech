@@ -45,6 +45,32 @@ npm run dev
 # http://localhost:3000
 ```
 
+## Docker
+
+您可以选择从 Docker Hub 拉取最新的镜像，或本地自行构建。
+
+### 从 Docker Hub 拉取最新的镜像
+
+```bash
+# 从 Docker Hub 拉取最新的镜像
+docker pull zhangjc1999/cook:latest
+# 新建并启动容器，然后打开 http://localhost:8080
+docker run -it -d --name cook -p 8080:80 zhangjc1999/cook:latest
+
+# 启动与停止
+docker start cook
+docker stop cook
+```
+
+### 自己本地构建
+
+```bash
+# 本地构建
+docker build . -t yourname/cook:localdev
+# 启动容器，然后打开 http://localhost:8080
+docker run -it -d --name cook -p 8080:80 yourname/cook:localdev
+```
+
 ## 致谢
 
 感谢以下小伙伴为本项目提供的帮助
