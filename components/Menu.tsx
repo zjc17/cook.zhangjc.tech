@@ -43,17 +43,17 @@ export function Menu({ activePath }: { activePath?: string }) {
   return (
     <Row wrap="wrap" justify="center" align="center" style={{ height: '34px' }}>
       <Grid css={activePath == '/' ? activeStyle : inactiveStyle}>
-        <Link href="/">
+        <Link href="/" passHref>
           <Icon icon={homeIcon} width="25" height="25" color={theme.colors.foreground.value} />
         </Link>
       </Grid>
       <Grid css={activePath == '/plant' ? activeStyle : inactiveStyle}>
-        <Link href="/plant">
+        <Link href="/plant" passHref>
           <Icon icon={plantOutline} width="25" height="25" color={theme.colors.foreground.value} />
         </Link>
       </Grid>
       <Grid css={activePath == '/laofangu' ? activeStyle : inactiveStyle}>
-        <Link href="/laofangu">
+        <Link href="/laofangu" passHref>
           <Icon icon={chefHat} width="25" height="25" color={theme.colors.foreground.value} />
         </Link>
       </Grid>
@@ -61,22 +61,15 @@ export function Menu({ activePath }: { activePath?: string }) {
         <ThemeSwitch />
       </Grid>
       <Grid css={activePath == '/help' ? activeStyle : inactiveStyle}>
-        <Link href="/help">
+        <Link href="/help" passHref>
           <Icon icon={questionCircleOutlined} width="25" height="25" color={theme.colors.foreground.value} />
         </Link>
       </Grid>
       <Grid css={inactiveStyle}>
-        <Link href="https://github.com/zjc17/cook.zhangjc.tech">
+        <Link href="https://github.com/zjc17/cook.zhangjc.tech" passHref>
           <a target='_blank'><Icon icon={githubOutline} width="25" height="25" color={theme.colors.foreground.value} /></a>
         </Link>
       </Grid>
-      {/* <div>
-        The current theme is: {type}
-        <Switch
-          checked={isDark}
-          onChange={(e) => setTheme(e.target.checked ? 'dark' : 'light')}
-        />
-      </div> */}
     </Row>
   )
 }

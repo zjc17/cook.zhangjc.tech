@@ -29,7 +29,14 @@ export default function PlantComponent() {
   const { theme, type } = useTheme()
   return (
     <AboutLayout menuActivePath="/plant">
-      <Head><title>家里种点什么?</title></Head>
+      <Head>
+        <title>我们在家里种点菜吧～</title>
+        <meta
+          name="description"
+          content="想在家里种菜？来看看吧！居家隔离食用手册，跟着视频学习常见食材能做哪些菜！是老饭骨的粉丝吗？这里有最全的菜谱视频合集！"
+          key="desc"
+        />
+      </Head>
       <Row justify="center" align="center" >
         <Icon icon={plantPot} width="44" height="44" color={type === 'light' ? theme.colors.green600.value : theme.colors.green400.value} />
       </Row>

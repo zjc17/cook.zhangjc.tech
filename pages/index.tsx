@@ -4,6 +4,7 @@ import ResetPrompt from '../components/ResetPrompt'
 import { DishResult } from "../components/DishResult";
 import { BaseFooter } from "../components/BaseFooter";
 import { Menu } from "../components/Menu";
+import Head from "next/head";
 // const recipe: Recipe = recipeData as Recipe
 
 
@@ -12,13 +13,24 @@ export default function App() {
   const { theme } = useTheme();
   return (
     <Container xl>
-      <Spacer style={{height: theme.space[1].value}} />
-      <Menu activePath="/"/>
-      <Spacer style={{height: theme.space[1].value}} />
+      <Head>
+        <title>居家隔离食用手册</title>
+        <meta
+          name="description"
+          content="居家隔离食用手册，跟着视频学习常见食材能做哪些菜！想在家里种菜？来看看吧！是老饭骨的粉丝吗？这里有最全的菜谱视频合集！"
+          key="desc"
+        />
+      </Head>
+      <Spacer style={{ height: theme.space[1].value }} />
+      <Menu activePath="/" />
+      <Spacer style={{ height: theme.space[1].value }} />
       <ResetPrompt />
-      <Spacer style={{height: theme.space[2].value}} />
+      <Row justify="center" align="center">
+        <Text h1 size={theme.fontSizes.base.value} weight="normal" as={'h1'}>好的，今天我们来做菜！</Text>
+      </Row>
+      <Spacer style={{ height: theme.space[2].value }} />
       <IngredientSelection />
-      <Spacer style={{height: theme.space[1].value}} />
+      <Spacer style={{ height: theme.space[1].value }} />
       <DishResult />
 
       <Row justify="center" align="center">

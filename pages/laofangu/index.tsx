@@ -16,7 +16,14 @@ export default function Categories() {
   const { theme, type } = useTheme()
   return (
     <AboutLayout maxWidth="1200px" showBilibiliFooter={false} menuActivePath='/laofangu'>
-      <Head><title>老饭骨合集</title></Head>
+      <Head>
+        <title>老饭骨菜谱视频合集～</title>
+        <meta
+          name="description"
+          content="是老饭骨的粉丝吗？这里有最全的菜谱视频合集！想在家里种菜？来看看吧！居家隔离食用手册，跟着视频学习常见食材能做哪些菜！"
+          key="desc"
+        />
+      </Head>
       <Row justify="center" align="center">
         <Text h3 weight="medium">老饭骨美食合集</Text>
       </Row>
