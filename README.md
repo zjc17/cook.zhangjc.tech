@@ -2,6 +2,7 @@
 
 > 居家食用手册｜好的，今天我们来做菜 🥬
 
+- 项目地址：[zjc17/cook.zhangjc.tech](https://github.com/zjc17/cook.zhangjc.tech)
 - 网站链接：[cook.zhangjc.tech](https://cook.zhangjc.tech)
 - 备用：[cook-zhangjc-tech.pages.dev](https://cook-zhangjc-tech.pages.dev/)
 
@@ -22,7 +23,7 @@
 
 本项目初衷是方便特殊时期隔离在家而材料有限的小伙伴，因此菜谱材料会尽量限制在特定范围内。
 
-更多可参见 [居家食用手册 | 关于](https://cook.zhangjc.tech/about)。
+更多可参见 [居家食用手册 | 关于](https://cook.zhangjc.tech/help)。
 
 欢迎反馈更多菜谱数据：
 

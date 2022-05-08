@@ -5,6 +5,7 @@ import { DishResult } from "../components/DishResult";
 import { BaseFooter } from "../components/BaseFooter";
 import { Menu } from "../components/Menu";
 import Head from "next/head";
+import BaseLayout from "../components/layouts/AboutLayout";
 // const recipe: Recipe = recipeData as Recipe
 
 
@@ -12,7 +13,7 @@ import Head from "next/head";
 export default function App() {
   const { theme } = useTheme();
   return (
-    <Container xl>
+    <BaseLayout maxWidth="100%" menuActivePath="/">
       <Head>
         <title>居家隔离食用手册</title>
         <meta
@@ -21,9 +22,6 @@ export default function App() {
           key="desc"
         />
       </Head>
-      <Spacer style={{ height: theme.space[1].value }} />
-      <Menu activePath="/" />
-      <Spacer style={{ height: theme.space[1].value }} />
       <ResetPrompt />
       <Row justify="center" align="center">
         <Text h1 size={theme.fontSizes.base.value} weight="normal" as={'h1'}>好的，今天我们来做菜！</Text>
@@ -43,8 +41,6 @@ export default function App() {
           }}>更多囤货、水培攻略：隔离食用手册大全</Text>
         </a>
       </Row>
-
-      <BaseFooter />
-    </Container>
+    </BaseLayout>
   );
 }
