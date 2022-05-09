@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">居家食用手册</string>
+    <string name="title_activity_main">居家食用手册</string>
+    <string name="package_name">tech.zhangjc.cook</string>
+    <string name="custom_url_scheme">tech.zhangjc.cook</string>
+</resources>

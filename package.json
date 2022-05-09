@@ -8,9 +8,12 @@
     "prestart": "npm run export",
     "start": "next start",
     "postbuild": "next-sitemap",
-    "lint": "next lint"
+    "lint": "next lint",
+    "build-mobile": "next build && next export && npx cap sync"
   },
   "dependencies": {
+    "@capacitor/android": "^3.5.1",
+    "@capacitor/core": "^3.5.1",
     "@mdx-js/loader": "^2.1.1",
     "@mdx-js/react": "^2.1.1",
     "@next/mdx": "^12.1.5",
@@ -27,6 +30,7 @@
     "zustand": "^4.0.0-rc.1"
   },
   "devDependencies": {
+    "@capacitor/cli": "^3.5.1",
     "@iconify/icons-akar-icons": "^1.2.5",
     "@iconify/icons-ant-design": "^1.2.2",
     "@iconify/icons-arcticons": "^1.2.14",
