@@ -9,7 +9,7 @@ RUN apk update
 WORKDIR /app
 COPY . .
 
-RUN npm install && npm run build && npm run export
+RUN npm install && npm run export
 
 FROM nginx:stable-alpine
 COPY --from=builder /app/out /usr/share/nginx/html
