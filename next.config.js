@@ -17,7 +17,7 @@ module.exports = withMDX(
     pwa: {
       dest: "public",
       runtimeCaching,
-      disable: process.env.DISABLE_PWA,
+      disable: process.env.DISABLE_PWA == 'true', // env variable is read as string without type convention
     },
     reactStrictMode: true,
     // Append the default value with md extensions
