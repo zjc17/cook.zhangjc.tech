@@ -3,7 +3,7 @@ name: Docker Image
 
 on:
   push:
-    branches: [master]
+    branches: [release]
   pull_request:
     branches: [master]
 

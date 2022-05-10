@@ -8,6 +8,7 @@ ENV NEXT_PUBLIC_BAIDU_TRACE='6e2089c7a44e91b7a6fab00626c1fb08'
 RUN apk update
 WORKDIR /app
 COPY . .
+COPY .env.docker .env
 
 RUN npm install && npm run export
 

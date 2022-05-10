@@ -33,6 +33,7 @@ export default function App({ Component, pageProps }: AppProps) {
     >
       <NextUIProvider>
         <GoogleAnalytics />
+        {process.env.NEXT_PUBLIC_ENABLE_WEB_VITAL_SCRIPT && <WebVitalsScript />}
         <BaiduTrace />
         {/* <GoogleAdsTrace /> */}
         <Component {...pageProps} />
@@ -52,6 +53,24 @@ function GoogleAnalytics() {
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}');
+        `}
+      </Script>
+    </>
+  )
+}
+
+function WebVitalsScript() {
+  return (
+    <>
+      <Script id='web-vitals' type="module">
+        {`
+        import {getFCP, getLCP, getFID} from 'https://unpkg.com/web-vitals@0.2.4/dist/web-vitals.es5.min.js?module';
+        // 获取 First Contentful Paint
+        getFCP(({name, value}) => console.log(name, value));
+        // 获取 Largest Contentful Paint
+        getLCP(({name, value}) => console.log(name, value));
+        // 获取 First Input Delay
+        getFID(({name, value}) => console.log(name, value));
         `}
       </Script>
     </>
