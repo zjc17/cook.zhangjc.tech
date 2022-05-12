@@ -2,17 +2,13 @@
   "private": true,
   "scripts": {
     "dev": "next",
-    
     "build": "next build",
     "postbuild": "next-sitemap",
-
     "preexport": "npm run build",
     "export": "next export",
     "postexport": "next-sitemap",
-
     "prestart": "npm run export",
     "start": "next start",
-
     "lint": "next lint"
   },
   "dependencies": {
@@ -53,6 +49,7 @@
     "@types/node": "^16.11.32",
     "@types/react": "^17.0.14",
     "autoprefixer": "^10.4.5",
+    "cssnano": "^5.1.7",
     "eslint": "8.15.0",
     "eslint-config-next": "12.1.6",
     "next-pwa": "^5.5.2",

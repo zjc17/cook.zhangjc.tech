@@ -66,13 +66,13 @@ function PWA() {
       <link rel='apple-touch-icon' href='/icons/icon-192x192.png' />
       <link rel='apple-touch-icon' sizes='192x192' href='/icons/icon-192x192.png' />
       <link rel='apple-touch-icon' sizes='512x512' href='/icons/icon-512x512.png' />
-      <link href="/icons/apple_splash_2048.png" sizes="2048x2732" rel="apple-touch-startup-image" />
+      {/* <link href="/icons/apple_splash_2048.png" sizes="2048x2732" rel="apple-touch-startup-image" />
       <link href="/icons/apple_splash_1668.png" sizes="1668x2224" rel="apple-touch-startup-image" />
       <link href="/icons/apple_splash_1536.png" sizes="1536x2048" rel="apple-touch-startup-image" />
       <link href="/icons/apple_splash_1125.png" sizes="1125x2436" rel="apple-touch-startup-image" />
       <link href="/icons/apple_splash_1242.png" sizes="1242x2208" rel="apple-touch-startup-image" />
       <link href="/icons/apple_splash_750.png" sizes="750x1334" rel="apple-touch-startup-image" />
-      <link href="/icons/apple_splash_640.png" sizes="640x1136" rel="apple-touch-startup-image" />
+      <link href="/icons/apple_splash_640.png" sizes="640x1136" rel="apple-touch-startup-image" /> */}
     </>
   )
 }
