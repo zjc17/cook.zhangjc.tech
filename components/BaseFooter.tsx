@@ -9,7 +9,12 @@ export function BaseFooter({showBilibili = true}: { showBilibili?: boolean }) {
     <Container>
       <Row justify="center" align="center" css={{marginTop: '8px'}}>
         <a href="https://gpt-store.pro?utm_source=cook.zhangjc.tech">
-          <Text h5 weight='light' css={{opacity: '0.8'}}>Best GPT Store</Text>
+          <Text h5 weight='light' css={{opacity: '0.8'}}>最全的 GPTs 商店</Text>
+        </a>
+      </Row>
+      <Row justify="center" align="center" css={{marginTop: '8px'}}>
+        <a href="https://characteraigenerator.com/start/MQ6ET4A?utm_source=cook.zhangjc.tech">
+          <Text h5 weight='light' css={{opacity: '0.8'}}>免费 Stable Diffusion XL 在线</Text>
         </a>
       </Row>
       <Row justify="center" align="center" css={{marginTop: '8px'}}>
